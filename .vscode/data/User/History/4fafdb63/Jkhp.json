@@ -1,0 +1,59 @@
+{
+    "sqltools.useNodeRuntime": "/usr/local/bin/node",
+    "sqltools.languageServerEnv": {
+        "PATH": "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/user/.node_modules_global/bin"
+    },
+    "cds.checkDevKitInstalled": false,
+    "cds.releaseNotes.showAutomatically": false,
+    "java.jdt.ls.vmargs": "-DwatchParentProcess=false -noverify -XX:MaxDirectMemorySize=10M -XX:MaxMetaspaceSize=98632K -Xss1M -Xmx500736K -XX:+UseG1GC -XX:+UseStringDeduplication -XX:-HeapDumpOnOutOfMemoryError -Dlog.level=ERROR",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.autobuild.enabled": false,
+    "java.debug.settings.console": "internalConsole",
+    "java.debug.settings.forceBuildBeforeLaunch": false,
+    "java.server.launchMode": "Standard",
+    "java.recommendations.dependency.analytics.show": false,
+    "java.semanticHighlighting.enabled": false,
+    "java.compile.nullAnalysis.mode": "disabled",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.factorypath": true,
+        "**/.project": true,
+        "**/.settings": true
+    },
+    "ports.excludeExposeNotification": {
+        "ports": [
+            8000,
+            8005,
+            8009,
+            6005,
+            10101
+        ],
+        "ranges": [
+            {
+                "from": 0,
+                "to": 0
+            }
+        ]
+    },
+    "spring-boot.ls.checkJVM": false,
+    "spring-boot.ls.java.vmargs": [
+        "-XX:MaxDirectMemorySize=10M",
+        "-XX:MaxMetaspaceSize=98632K",
+        "-Xss1M",
+        "-Xmx437943K",
+        "-XX:HeapDumpPath=/tmp"
+    ],
+    "files.autoSave": "afterDelay",
+    "extensions.ignoreRecommendations": true,
+    "git.terminalGitEditor": true,
+    "security.workspace.trust.enabled": false,
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "/home/user/.asdf-inst/installs/java/sapmachine-21.0.2",
+            "default": true
+        }
+    ],
+    "java.jdt.ls.java.home": "/home/user/.asdf-inst/installs/java/sapmachine-21.0.2"
+}

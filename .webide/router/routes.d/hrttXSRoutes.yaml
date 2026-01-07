@@ -1,0 +1,11 @@
+
+
+backends:
+
+- path-prefix: xs/hrtt
+  description: Route HRTT entitlement requests on SAP HANA XS Advanced into a local server
+  url: http://127.0.0.1:10101
+  rewrite-host: true
+  route-settings:
+    overwrite-original-host: true
+    priority-over-host-based: true

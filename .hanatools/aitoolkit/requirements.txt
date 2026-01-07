@@ -1,0 +1,15 @@
+langchain
+numpy==2.3.2
+pandas==2.3.1
+hana-ml==2.25.25080800
+langchain-community==0.3.27
+langchain-core==0.3.74
+langchain-experimental==0.3.4
+langchain-text-splitters==0.3.9
+pydantic==2.11.7
+pydantic-core==2.33.2
+cryptography==45.0.6
+ipython==9.4.0
+tabulate==0.9.0
+hana-ai==1.0.25070700.post2
+sap-ai-sdk-gen[all]==5.4.5

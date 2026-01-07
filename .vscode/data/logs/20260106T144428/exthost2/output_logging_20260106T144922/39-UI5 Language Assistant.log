@@ -1,0 +1,190 @@
+Could not find SWA env params in appstudio, disabling tracking.
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:23:47.067Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:23:54.992Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:25:48.325Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:27:41.728Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:27:48.307Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:27:51.815Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:28:20.569Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:28:25.064Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:29:52.690Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:30:34.032Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:30:39.627Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:30:44.068Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:30:50.823Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:30:54.349Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:31:07.150Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:31:11.577Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:32:00.145Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:37:46.493Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T15:39:27.279Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T17:01:29.450Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T17:07:30.194Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T17:07:31.804Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T17:07:34.208Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T17:07:42.272Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T17:40:50.495Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T17:40:54.025Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-06T17:41:46.695Z"
+}

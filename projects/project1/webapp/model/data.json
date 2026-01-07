@@ -1,0 +1,8 @@
+{
+  "items": [
+    { "title": "Item 1", "description": "Detail for Item 1" },
+    { "title": "Item 2", "description": "Detail for Item 2" },
+    { "title": "Item 3", "description": "Detail for Item 3" }
+  ],
+  "selectedItem": {}
+}

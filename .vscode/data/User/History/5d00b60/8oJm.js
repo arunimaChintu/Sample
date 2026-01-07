@@ -1,0 +1,20 @@
+sap.ui.define([
+    "sap/ui/core/mvc/Controller",
+    
+ 
+
+], (Controller, JSONModel) => {
+    "use strict";
+
+    return Controller.extend("project1.controller.View1", {
+        onInit() {
+
+            
+        },
+        myScreen:function(){
+            
+                var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
+                oRouter.navTo("RouteSplitApp",{});
+            }
+    });
+});

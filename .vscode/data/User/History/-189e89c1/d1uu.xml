@@ -1,0 +1,28 @@
+<mvc:View
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:form="sap.ui.layout.form">
+
+    <form:SimpleForm
+        editable="false"
+        layout="ResponsiveGridLayout"
+        expandable="true">
+
+        <Label text="Company Name"/>
+        <Text text="Maventic"/>
+
+        <Label text="Founded"/>
+        <Text text="2018"/>
+
+        <Label text="Headquarters"/>
+        <Text text="India"/>
+
+        <Label text="Domain"/>
+        <Text text="Technology & Consulting"/>
+
+        <Label text="Description"/>
+        <Text text="Maventic is focused on delivering scalable enterprise solutions."/>
+        
+    </form:SimpleForm>
+
+</mvc:View>

@@ -1,0 +1,42 @@
+<mvc:View
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:form="sap.ui.layout.form">
+
+    
+    <Panel
+        headerText="About the Company"
+        expandable="true"
+        expanded="false"
+        width="100%">
+
+        <content>
+            <form:SimpleForm
+                editable="false"
+                layout="ResponsiveGridLayout">
+
+                <Label text="Company Name"/>
+                <Text text="Maventic"/>
+
+                <Label text="Founded"/>
+                <Text text="2018"/>
+
+                <Label text="Industry"/>
+                <Text text="Technology and Consulting"/>
+
+                <Label text="Headquarters"/>
+                <Text text="India"/>
+
+                <Label text="Core Expertise"/>
+                <Text text="Enterprise solutions, digital transformation, and scalable business platforms."/>
+
+                <Label text="About"/>
+                <Text
+                    text="Maventic is a technology-driven organization focused on building reliable and scalable enterprise solutions. The company emphasizes innovation, quality delivery, and long-term partnerships to help businesses adapt and grow in a rapidly evolving digital landscape." />
+
+            </form:SimpleForm>
+        </content>
+
+    </Panel>
+
+</mvc:View>

@@ -1,0 +1,8 @@
+<mvc:View controllerName="project1.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.uxap"
+	xmlns:m="sap.m"
+    xmlns:blockcolor="project1.Shared"
+	height="100%">
+   
+</mvc:View>

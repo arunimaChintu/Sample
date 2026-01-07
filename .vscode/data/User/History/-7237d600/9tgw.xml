@@ -1,0 +1,97 @@
+<mvc:View
+    controllerName="project1.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.uxap"
+    xmlns:m="sap.m"
+    xmlns:blockcolor="project1.Shared"
+    height="100%">
+
+    <ObjectPageLayout
+        id="ObjectPageLayout"
+        upperCaseAnchorBar="false">
+
+        <!-- ================= HEADER TITLE ================= -->
+        <headerTitle>
+            <ObjectPageHeader
+                objectTitle="MAVENTIC"
+                objectSubtitle="Company Overview">
+            </ObjectPageHeader>
+        </headerTitle>
+
+        <!-- ================= HEADER CONTENT ================= -->
+        <headerContent>
+            <m:HBox>
+                <m:VBox>
+                    <m:ObjectAttribute
+                        text="Maventic is a great company"/>
+                </m:VBox>
+
+                <m:VBox class="sapUiSmallMarginBegin">
+                    <m:Button
+                        text="Go to Split Screen"
+                        type="Emphasized"
+                        press=".myScreen"/>
+                </m:VBox>
+            </m:HBox>
+        </headerContent>
+
+        <!-- ================= SECTIONS ================= -->
+        <sections>
+
+            <!-- ===== COMPANY OVERVIEW ===== -->
+            <ObjectPageSection
+                titleUppercase="false"
+                title="Company Overview">
+
+                <subSections>
+
+                    <ObjectPageSubSection
+                        title="About the Company"
+                        titleUppercase="false">
+                        <blocks>
+                            <blockcolor:about id="bbt1"/>
+                        </blocks>
+                    </ObjectPageSubSection>
+
+                    <ObjectPageSubSection
+                        title="Projects & Work"
+                        titleUppercase="false">
+                        <blocks>
+                            <blockcolor:projects id="bbt2"/>
+                        </blocks>
+                    </ObjectPageSubSection>
+
+                </subSections>
+            </ObjectPageSection>
+
+            <!-- ===== HIGHLIGHTS ===== -->
+            <ObjectPageSection
+                titleUppercase="false"
+                title="Highlights">
+                <subSections>
+                    <ObjectPageSubSection title="Key Points">
+                        <blocks>
+                            <m:Text text="Content coming soon"/>
+                        </blocks>
+                    </ObjectPageSubSection>
+                </subSections>
+            </ObjectPageSection>
+
+            <!-- ===== FEATURES ===== -->
+            <ObjectPageSection
+                titleUppercase="false"
+                title="Features">
+                <subSections>
+                    <ObjectPageSubSection titleUppercase="false">
+                        <blocks>
+                            <blockcolor:features id="bbt3"/>
+                        </blocks>
+                    </ObjectPageSubSection>
+                </subSections>
+            </ObjectPageSection>
+
+        </sections>
+
+    </ObjectPageLayout>
+
+</mvc:View>

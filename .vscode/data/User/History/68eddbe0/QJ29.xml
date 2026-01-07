@@ -1,0 +1,56 @@
+<mvc:View
+    controllerName="project1.controller.SplitAppView"
+    xmlns="sap.m"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:custom="http://schemas.sap.com/sapui5/extension/sap.ui.core.CustomData/1">
+
+    <SplitApp
+        id="SplitAppDemo"
+        initialDetail="detail"
+        initialMaster="master">
+
+       
+        <SplitApp id="SplitAppDemo" initialDetail="detail" initialMaster="master">
+
+    <!-- DETAIL PAGES -->
+    <detailPages>
+        <Page id="detail" title="{masterDetail>/selectedItem/title}" backgroundDesign="Solid">
+            <VBox class="sapUiSmallMargin">
+                <Text text="{masterDetail>/selectedItem/description}" />
+            </VBox>
+        </Page>
+        <!-- You can add more detail pages later if needed -->
+    </detailPages>
+
+    <!-- MASTER PAGES -->
+    <masterPages>
+        <Page id="master" title="Master 1" backgroundDesign="List">
+            <List
+                items="{masterDetail>/items}"
+                mode="SingleSelectMaster"
+                itemPress=".onItemPress">
+                <StandardListItem
+                    title="{masterDetail>title}"
+                    description="{masterDetail>description}"
+                    type="Active"/>
+            </List>
+        </Page>
+
+        <!-- Optional second master page if needed -->
+        <Page id="master2" title="Master 2" backgroundDesign="List" showNavButton="true" navButtonPress=".onPressMasterBack">
+            <List
+                items="{masterDetail>/items}"
+                mode="SingleSelectMaster"
+                itemPress=".onItemPress">
+                <StandardListItem
+                    title="{masterDetail>title}"
+                    description="{masterDetail>description}"
+                    type="Active"/>
+            </List>
+        </Page>
+    </masterPages>
+
+</SplitApp>
+
+    </SplitApp>
+</mvc:View>

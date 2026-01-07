@@ -1,0 +1,7 @@
+[credential]
+	helper = /home/user/.bas-git/bas-git-helper-init.sh
+[user]
+	email = arunima@maventic.com
+	name = Arunima Dutta
+[init]
+	defaultBranch = main

@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "project1",
+			"uri": "vscode-remote://theia-workspaces-ws-damqj.us10.trial.applicationstudio.cloud.sap/home/user/projects/project1"
+		}
+	],
+	"remoteAuthority": "theia-workspaces-ws-damqj.us10.trial.applicationstudio.cloud.sap",
+	"settings": {
+		"SAP HANA Database Explorer.ShowXsAdvancedConnections": true
+	}
+}

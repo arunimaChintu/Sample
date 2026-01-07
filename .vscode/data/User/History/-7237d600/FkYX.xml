@@ -1,0 +1,47 @@
+<mvc:View controllerName="project1.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.uxap"
+	xmlns:m="sap.m"
+    xmlns:blockcolor="sap.uxap.project1.Shared"
+	height="100%">
+   	<ObjectPageLayout
+        id="ObjectPageLayout"
+        upperCaseAnchorBar="false">
+
+        <!-- HEADER -->
+        <headerTitle>
+            <ObjectPageHeader objectTitle="Section sample"/>
+        </headerTitle>
+
+        <headerContent>
+            <m:ObjectAttribute
+                text="This example explains the rules for the rendering of sections"/>
+        </headerContent>
+
+        <!-- SECTIONS -->
+        <sections>
+
+            <ObjectPageSection title="Section 1" titleUppercase="false">
+                <subSections>
+
+                    <ObjectPageSubSection title="Subsection 1.1" titleUppercase="false">
+                        <blocks>
+                            <blockcolor:BlockBlueT1/>
+                        </blocks>
+                    </ObjectPageSubSection>
+
+                    
+
+                </subSections>
+            </ObjectPageSection>
+
+            
+            
+
+            
+            
+
+        </sections>
+
+    </ObjectPageLayout>
+</mvc:View>

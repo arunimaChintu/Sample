@@ -1,0 +1,9 @@
+<mvc:View
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m">
+
+  <VBox class="sapUiSmallMargin">
+    <Text text="F Block Content"/>
+  </VBox>
+
+</mvc:View>
