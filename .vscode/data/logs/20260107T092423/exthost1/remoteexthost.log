@@ -2723,3 +2723,11 @@
     at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
     at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
     at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-07 10:00:21.634 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-07 10:00:21.774 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-07 10:00:26.390 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/gc.pid'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-07 10:00:26.390 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/gc.log.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
