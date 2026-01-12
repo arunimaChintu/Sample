@@ -1,0 +1,30 @@
+AppFolders: starting processing setAppFoldersContext()
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1111.748ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T054055/exthost1/GitHub.copilot-chat-bas' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 988.783ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T054055/exthost1/SAPSE.hana-project-explorer' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1155.756ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T054055/exthost1/vscode.microsoft-authentication' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 862.774ms
+AppFolders: Directory 'file:///home/user/.local/share/gk' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1259.042ms

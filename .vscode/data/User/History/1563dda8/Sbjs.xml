@@ -1,0 +1,19 @@
+<mvc:View controllerName="project2.controller.View1"
+    
+	xmlns:w="sap.ui.integration.widgets"
+	xmlns:f="sap.f"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+	<Page >
+	<List
+		headerText="Products"
+		headerLevel="H2"
+		items="{
+			path: '/ProductCollection'
+		}" >
+		<StandardListItem
+			title="{Name}"
+			counter="{Quantity}"/>
+	</List>
+	</Page>
+</mvc:View>

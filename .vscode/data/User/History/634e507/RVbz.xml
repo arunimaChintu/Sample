@@ -1,0 +1,16 @@
+<mvc:View controllerName="project3.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page title="je">
+    <content>
+      <List
+        id="productList"
+        headerText="uhk"
+        items="{/Products}">
+        <StandardListItem
+          title="{Name}"
+          description="{Description}" />
+      </List>
+    </content>
+  </Page>
+</mvc:View>

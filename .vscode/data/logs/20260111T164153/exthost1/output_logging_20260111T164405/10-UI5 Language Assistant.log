@@ -1,0 +1,15 @@
+Could not find SWA env params in appstudio, disabling tracking.
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-11T18:43:04.427Z"
+}
+{
+  "label": "@ui5-language-assistant/language-server",
+  "level": "error",
+  "message": "`onDidChangeWatchedFiles` failed: Cannot read properties of undefined (reading 'type')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'type')\n    at ISe (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:456:16868)\n    at _Kt (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:813:36614)\n    at eye (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1404:6163)\n    at AGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3117)\n    at async bGn (/extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:3986)\n    at async /extbin/local/openvscode-server/extensions/vscode-ui5-language-assistant-4.0.84/node_modules/@ui5-language-assistant/language-server/dist/server.js:1411:4707",
+  "time": "2026-01-11T18:45:08.065Z"
+}

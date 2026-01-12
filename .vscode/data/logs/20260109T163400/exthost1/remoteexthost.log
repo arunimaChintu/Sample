@@ -1,0 +1,1268 @@
+2026-01-09 16:37:24.510 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at node_modules/@sap/bas-sdk/node_modules/axios/dist/node/axios.cjs (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:34625:22)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at node_modules/@sap/bas-sdk/dist/src/apis/get-destinations.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:37318:36)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at node_modules/@sap/bas-sdk/dist/src/index.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:43219:41)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at out/src/dev-space-service.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:43301:21)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at out/src/extension.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:143790:31)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:143976:18)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:24.519 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at node_modules/axios/dist/node/axios.cjs (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:45372:22)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at out/src/test-destination-command.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:47966:19)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at out/src/extension.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:143791:38)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:143976:18)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:24.548 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at node_modules/simple-ext-installer/node_modules/axios/dist/node/axios.cjs (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:80674:22)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at node_modules/simple-ext-installer/lib/utils.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:83242:36)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at node_modules/simple-ext-installer/lib/legacy-script-index.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:89233:19)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at node_modules/simple-ext-installer/lib/api.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:99068:33)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at out/src/handle-non-sap-extensions.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:99129:34)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at out/src/extension.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:143794:39)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:143976:18)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:24.581 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at node_modules/@azure/core-util/dist/commonjs/checkEnvironment.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:137275:5)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at node_modules/@azure/core-util/dist/commonjs/index.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:137349:33)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at node_modules/@azure/core-rest-pipeline/dist/index.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:138690:20)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at node_modules/applicationinsights/out/Library/AuthorizationHandler.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:140462:21)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at node_modules/applicationinsights/out/Library/TelemetryClient.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:142775:32)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at node_modules/applicationinsights/out/Library/NodeClient.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:142949:27)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at node_modules/applicationinsights/out/applicationinsights.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:143019:32)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at node_modules/@sap/swa-for-sapbas-vsx/dist/src/telemetryInit.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:143388:33)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at node_modules/@sap/swa-for-sapbas-vsx/dist/src/basTelemetryClient.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:143521:27)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at node_modules/@sap/swa-for-sapbas-vsx/dist/src/index.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:143605:32)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at out/src/usage-report/usage-analytics-wrapper.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:143635:32)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at out/src/extension.js (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:143802:37)
+    at __require (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:17:50)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:143976:18)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:25.107 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at 81643 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:344209:1)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 80060 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:340087:29)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 76088 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:321693:21)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 39529 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:149655:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 50770 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:199526:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 1110 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:3677:38)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 667 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:1924:17)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 76458 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:324761:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 3807 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:12410:23)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 18373 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:61855:27)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 83022 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:353848:31)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 2801 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:8960:25)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 82638 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:352364:30)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 88457 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:379364:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 78490 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:330188:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at /extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423911:37
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423914:12)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:25.115 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at 78549 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:331904:20)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 82505 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:350103:33)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 1289 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:3927:38)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 72650 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:308931:19)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 2801 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:8961:17)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 82638 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:352364:30)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 88457 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:379364:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at 78490 (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:330188:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423844:42)
+    at /extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423911:37
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/app-studio-toolkit-2.10.0/dist/extension.js:423914:12)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:25.283 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at 84950 (/extbin/local/openvscode-server/extensions/vscode-cf-tools-8.0.1/dist/extension.js:101176:31)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/vscode-cf-tools-8.0.1/dist/extension.js:117756:42)
+    at 94155 (/extbin/local/openvscode-server/extensions/vscode-cf-tools-8.0.1/dist/extension.js:85360:33)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/vscode-cf-tools-8.0.1/dist/extension.js:117756:42)
+    at 6527 (/extbin/local/openvscode-server/extensions/vscode-cf-tools-8.0.1/dist/extension.js:85955:38)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/vscode-cf-tools-8.0.1/dist/extension.js:117756:42)
+    at 30732 (/extbin/local/openvscode-server/extensions/vscode-cf-tools-8.0.1/dist/extension.js:98791:19)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/vscode-cf-tools-8.0.1/dist/extension.js:117756:42)
+    at 33285 (/extbin/local/openvscode-server/extensions/vscode-cf-tools-8.0.1/dist/extension.js:97967:27)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/vscode-cf-tools-8.0.1/dist/extension.js:117756:42)
+    at 43130 (/extbin/local/openvscode-server/extensions/vscode-cf-tools-8.0.1/dist/extension.js:98538:20)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/vscode-cf-tools-8.0.1/dist/extension.js:117756:42)
+    at /extbin/local/openvscode-server/extensions/vscode-cf-tools-8.0.1/dist/extension.js:117808:37
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/vscode-cf-tools-8.0.1/dist/extension.js:117811:12)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:25.419 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at 45918 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4961)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 95901 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:353658)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 95688 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:423272)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 78312 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:394314)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 43842 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:440896)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 59430 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:237714)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 61356 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:234807)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 48896 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:236743)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 72899 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:2904882)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 54056 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:2906591)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 97352 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:2923557)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 22872 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:2913617)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at /extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384969
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384996)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:25.438 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at 5104 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:3146996)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 46576 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:197623)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 46892 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:204628)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 94917 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:238307)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 61356 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:234818)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 48896 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:236743)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 72899 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:2904882)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 54056 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:2906591)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 97352 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:2923557)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at 22872 (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:2913617)
+    at n (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384294)
+    at /extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384969
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/code-snippet-tool-2.0.4/dist/extension.js:2:4384996)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:25.623 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at ./node_modules/axios/dist/node/axios.cjs (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:35485:20)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./node_modules/@sap/xs-tools/out/src/xs-local.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:16779:17)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./node_modules/@sap/xs-tools/out/src/index.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:16428:20)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/extension.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:153117:17)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180211:37
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180214:12)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:25.651 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at ./node_modules/engine.io-client/build/cjs/transports/websocket.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:46369:23)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./node_modules/engine.io-client/build/cjs/transports/websocket.node.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:46530:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./node_modules/engine.io-client/build/cjs/transports/index.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:45740:29)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./node_modules/engine.io-client/build/cjs/socket.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:44802:20)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./node_modules/engine.io-client/build/cjs/index.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:44756:21)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./node_modules/socket.io-client/build/cjs/url.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:121255:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./node_modules/socket.io-client/build/cjs/index.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:119803:18)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/shared/sessionApi/AdminChannelAPI.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:161972:12)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/shared/sessionApi/Session.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:162572:74)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/utils/hrttServiceSetup.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:169897:19)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/providers/BaseTreeProvider.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:165397:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/providers/DatabaseListProvider.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:166238:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/extensionAPI.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:154103:32)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/databaseConnectivity/DatabaseConnection.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:149513:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/nodes/DatabaseNode.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:165050:30)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/extension.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:153121:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180211:37
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180214:12)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:25.655 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at Function.useColors (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:20781:2)
+    at createDebug (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:21044:33)
+    at 4../uuid (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17724:29)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:353
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18106:16)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18391:4)
+    at 6../iostream (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18391:17)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:353
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17636:14)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17714:4)
+    at 3../blob-read-stream (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17714:17)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:353
+    at 1../lib (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17552:18)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at r (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:442)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:471
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17546:38
+    at ./node_modules/@sap_oss/node-socketio-stream/node-socketio-stream.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:13)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/shared/sessionApi/AdminChannelAPI.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:161973:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/shared/sessionApi/Session.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:162572:74)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/utils/hrttServiceSetup.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:169897:19)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/providers/BaseTreeProvider.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:165397:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/providers/DatabaseListProvider.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:166238:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/extensionAPI.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:154103:32)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/databaseConnectivity/DatabaseConnection.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:149513:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/nodes/DatabaseNode.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:165050:30)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/extension.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:153121:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180211:37
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180214:12)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:25.655 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at Function.useColors (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:20789:126)
+    at createDebug (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:21044:33)
+    at 4../uuid (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17724:29)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:353
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18106:16)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18391:4)
+    at 6../iostream (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18391:17)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:353
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17636:14)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17714:4)
+    at 3../blob-read-stream (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17714:17)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:353
+    at 1../lib (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17552:18)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at r (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:442)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:471
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17546:38
+    at ./node_modules/@sap_oss/node-socketio-stream/node-socketio-stream.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:13)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/shared/sessionApi/AdminChannelAPI.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:161973:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/shared/sessionApi/Session.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:162572:74)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/utils/hrttServiceSetup.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:169897:19)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/providers/BaseTreeProvider.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:165397:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/providers/DatabaseListProvider.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:166238:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/extensionAPI.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:154103:32)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/databaseConnectivity/DatabaseConnection.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:149513:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/nodes/DatabaseNode.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:165050:30)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/extension.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:153121:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180211:37
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180214:12)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:25.655 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at Function.useColors (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:20792:148)
+    at createDebug (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:21044:33)
+    at 4../uuid (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17724:29)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:353
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18106:16)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18391:4)
+    at 6../iostream (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18391:17)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:353
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17636:14)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17714:4)
+    at 3../blob-read-stream (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17714:17)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:353
+    at 1../lib (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17552:18)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at r (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:442)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:471
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17546:38
+    at ./node_modules/@sap_oss/node-socketio-stream/node-socketio-stream.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:13)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/shared/sessionApi/AdminChannelAPI.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:161973:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/shared/sessionApi/Session.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:162572:74)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/utils/hrttServiceSetup.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:169897:19)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/providers/BaseTreeProvider.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:165397:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/providers/DatabaseListProvider.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:166238:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/extensionAPI.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:154103:32)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/databaseConnectivity/DatabaseConnection.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:149513:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/nodes/DatabaseNode.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:165050:30)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/extension.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:153121:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180211:37
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180214:12)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:25.656 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at Function.useColors (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:20781:2)
+    at createDebug (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:21044:33)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18108:29)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18391:4)
+    at 6../iostream (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18391:17)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:353
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17636:14)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17714:4)
+    at 3../blob-read-stream (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17714:17)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:353
+    at 1../lib (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17552:18)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at r (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:442)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:471
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17546:38
+    at ./node_modules/@sap_oss/node-socketio-stream/node-socketio-stream.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:13)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/shared/sessionApi/AdminChannelAPI.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:161973:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/shared/sessionApi/Session.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:162572:74)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/utils/hrttServiceSetup.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:169897:19)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/providers/BaseTreeProvider.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:165397:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/providers/DatabaseListProvider.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:166238:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/extensionAPI.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:154103:32)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/databaseConnectivity/DatabaseConnection.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:149513:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/nodes/DatabaseNode.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:165050:30)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/extension.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:153121:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180211:37
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180214:12)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:25.656 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at Function.useColors (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:20789:126)
+    at createDebug (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:21044:33)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18108:29)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18391:4)
+    at 6../iostream (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18391:17)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:353
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17636:14)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17714:4)
+    at 3../blob-read-stream (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17714:17)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:353
+    at 1../lib (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17552:18)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at r (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:442)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:471
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17546:38
+    at ./node_modules/@sap_oss/node-socketio-stream/node-socketio-stream.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:13)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/shared/sessionApi/AdminChannelAPI.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:161973:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/shared/sessionApi/Session.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:162572:74)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/utils/hrttServiceSetup.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:169897:19)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/providers/BaseTreeProvider.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:165397:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/providers/DatabaseListProvider.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:166238:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/extensionAPI.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:154103:32)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/databaseConnectivity/DatabaseConnection.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:149513:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/nodes/DatabaseNode.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:165050:30)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/extension.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:153121:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180211:37
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180214:12)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:25.656 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at Function.useColors (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:20792:148)
+    at createDebug (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:21044:33)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18108:29)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18391:4)
+    at 6../iostream (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:18391:17)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:353
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17636:14)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17714:4)
+    at 3../blob-read-stream (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17714:17)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:353
+    at 1../lib (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17552:18)
+    at o (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:302)
+    at r (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:442)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:471
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17546:38
+    at ./node_modules/@sap_oss/node-socketio-stream/node-socketio-stream.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:17547:13)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/shared/sessionApi/AdminChannelAPI.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:161973:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/shared/sessionApi/Session.js (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:162572:74)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/utils/hrttServiceSetup.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:169897:19)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/providers/BaseTreeProvider.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:165397:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/providers/DatabaseListProvider.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:166238:28)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/extensionAPI.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:154103:32)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/databaseConnectivity/DatabaseConnection.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:149513:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/treeViews/nodes/DatabaseNode.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:165050:30)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at ./src/extension.ts (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:153121:24)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180147:42)
+    at /extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180211:37
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-database-explorer-1.37.0-bas/dist/extension.js:180214:12)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:25.824 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at 9329 (/extbin/local/openvscode-server/extensions/hana-xs-tools-1.4.0/dist/extension.js:61424:20)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-xs-tools-1.4.0/dist/extension.js:66805:42)
+    at 6624 (/extbin/local/openvscode-server/extensions/hana-xs-tools-1.4.0/dist/extension.js:51382:17)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-xs-tools-1.4.0/dist/extension.js:66805:42)
+    at 2647 (/extbin/local/openvscode-server/extensions/hana-xs-tools-1.4.0/dist/extension.js:34734:20)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-xs-tools-1.4.0/dist/extension.js:66805:42)
+    at 3082 (/extbin/local/openvscode-server/extensions/hana-xs-tools-1.4.0/dist/extension.js:36477:20)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-xs-tools-1.4.0/dist/extension.js:66805:42)
+    at 2253 (/extbin/local/openvscode-server/extensions/hana-xs-tools-1.4.0/dist/extension.js:16560:18)
+    at __webpack_require__ (/extbin/local/openvscode-server/extensions/hana-xs-tools-1.4.0/dist/extension.js:66805:42)
+    at /extbin/local/openvscode-server/extensions/hana-xs-tools-1.4.0/dist/extension.js:66857:37
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-xs-tools-1.4.0/dist/extension.js:66860:12)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:26.397 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:72:21288
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:115:13715
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:115:21715
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:317:46387
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:317:56647
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:317:57072
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:935:6769
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:936:14929
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:4314:4497)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:26.489 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1004:45405
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1004:49237
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1004:53813
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1004:55671
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1004:57898
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1021:2802
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1022:2783
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1022:9914
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1024:21959
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1024:26090
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1024:27611
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1024:39994
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1024:42136
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1176:56918
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1176:57219
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1176:66329
+    at /extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1:441
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:4314:4523)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:27.150 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/node_modules/axios/dist/node/axios.cjs:1363:20)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/node_modules/@sap-ux/axios-extension/dist/base/odata-service.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/node_modules/@sap-ux/axios-extension/dist/index.js:20:14)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/node_modules/@sap-ux/adp-tooling/dist/abap/client.js:6:27)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/node_modules/@sap-ux/adp-tooling/dist/abap/index.js:17:14)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/node_modules/@sap-ux/adp-tooling/dist/index.js:21:14)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:4347:31265)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:27.356 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:4365:80640)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:27.950 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:2385:21241
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:2391:12421
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:2391:20390
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:2392:19935
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:2392:30185
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:2392:30609
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:3010:6757
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:3010:9195
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:3010:33636
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:3010:38169
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6310:2166
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6310:4189
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6311:23131
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6311:27420
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6311:28268
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6311:28902
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:9013:54408)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:28.448 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6333:45393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6333:49224
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6333:53792
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6333:55650
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6333:57875
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6350:2799
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6351:2775
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6351:9906
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6353:21902
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6353:26022
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6353:27541
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6353:39907
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6353:42037
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6532:56752
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6532:57053
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:6532:66129
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:9015:102)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:28.652 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:7925:19065
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at H_r.exports (/extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:8100:214)
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:8103:11647
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:8107:805
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:8129:693
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:8197:3176
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:8198:2696
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:8298:8468
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:8299:294
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:9007:10753
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:9007:12075
+    at /extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:1:393
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-help-extension-1.20.0/dist/extension-min.js:9042:3335)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:28.920 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:27:45311
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:27:49131
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:27:53678
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:27:55531
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:27:57751
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:44:2772
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:45:2775
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:45:9896
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:47:21884
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:47:25998
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:47:27508
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:47:39791
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:47:41911
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:557:12423
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:557:12721
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:557:21746
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:2420:80232)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:28.950 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:68:27109
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:74:11741
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:87:20806
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:101:14109
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:101:18596
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:518:18923
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:557:12441
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:557:12721
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:557:21746
+    at /extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:1:406
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-service-modeler-extension-1.20.0/dist/extension-min.js:2420:80232)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:29.465 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:6611)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/uicard-dk-1.14.20250922/node_modules/axios/dist/node/axios.cjs:1363:20)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/uicard-dk-1.14.20250922/out/common/cardHelper.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/uicard-dk-1.14.20250922/out/base/scdk.js:15:22)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/uicard-dk-1.14.20250922/out/extension.js:16:16)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1263:12)
+    at e._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:5984)
+    at t._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:211:22649)
+    at r._load (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:203:26718)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1463:12)
+    at Module.patchedRequire [as require] (/extbin/local/openvscode-server/extensions/vscode-bas-extension/dist/extension.js:112504:46)
+    at require (node:internal/modules/helpers:147:16)
+    at xZ.Cb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:242:1253)
+2026-01-09 16:37:54.791 [error] Error: chatParticipant must be declared in package.json: claude-code
+    at A_t.$registerAgent (https://theia-workspaces-ws-damqj.us10.trial.applicationstudio.cloud.sap/oss-d4e45d4daf58f74fc7299d201a9cf691da3623f8/static/out/vs/code/browser/workbench/workbench.js:509:5906)
+2026-01-09 16:38:03.948 [error] Error: ENOENT: no such file or directory, stat '/home/user/.local/share/gk/lockfile'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-09 16:38:06.331 [error] Error: ENOENT: no such file or directory, stat '/home/user/.local/share/gk/lockfile'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-09 17:10:16.903 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config2984538345'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-09 17:10:16.903 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config2984538345'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-09 17:10:16.903 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1412005582'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-09 17:10:16.903 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1412005582'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-09 17:10:18.171 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config2984538345'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-09 17:10:18.171 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1412005582'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-09 17:10:32.781 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1636731711'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-09 17:10:32.879 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1636731711'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-09 17:10:33.118 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1636731711'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-09 17:34:23.879 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2026-01-09 17:34:23.907 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+    at Object.dispose (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:142:122634)
+    at $0.<anonymous> (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:24558)
+    at $0.dispose (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:24654)
+    at Object.dispose (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1154:48762)
+    at /extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1425:15117
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1425:15099)
+    at Hi (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:25:746)
+    at k2.b (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:15119)
+    at k2.dispose (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:25:1227)
+    at xZ.eb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:11992)
+    at file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+    at Array.map (<anonymous>)
+    at xZ.$ (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+    at xZ.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+    at W3.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+    at Ss (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:10410)
+    at BS.a (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:7314)
+    at BS.h (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:28:76489)
+    at listOnTimeout (node:internal/timers:588:17)
+    at processTimers (node:internal/timers:523:7)
+2026-01-09 17:34:23.961 [error] Unable to refresh tree view runConfigurations: Canceled
+2026-01-09 17:34:23.961 [error] Unable to refresh tree view xsView: Canceled
+2026-01-09 17:34:23.988 [error] Unable to refresh tree view runConfigurations: Canceled
+2026-01-09 17:34:23.988 [error] Unable to refresh tree view xsView: Canceled
+2026-01-09 17:34:24.008 [error] Unable to refresh tree view runConfigurations: Canceled
+2026-01-09 17:34:24.008 [error] Unable to refresh tree view runConfigurations: Canceled
+2026-01-09 17:34:24.008 [error] Unable to refresh tree view runConfigurations: Canceled
+2026-01-09 17:34:24.008 [error] Unable to refresh tree view runConfigurations: Canceled
+2026-01-09 17:34:24.008 [error] Unable to refresh tree view runConfigurations: Canceled
+2026-01-09 17:34:24.008 [error] Unable to refresh tree view runConfigurations: Canceled
+2026-01-09 17:34:24.008 [error] Unable to refresh tree view runConfigurations: Canceled
+2026-01-09 17:34:24.008 [error] Unable to refresh tree view runConfigurations: Canceled
+2026-01-09 17:34:24.036 [error] Error: Channel has been closed
+    at n (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:121:2816)
+    at Object.info (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:121:3161)
+    at T.info (/extbin/local/openvscode-server/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45257)
+    at ChildProcess.<anonymous> (/extbin/local/openvscode-server/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:600486)
+    at ChildProcess.emit (node:events:519:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)

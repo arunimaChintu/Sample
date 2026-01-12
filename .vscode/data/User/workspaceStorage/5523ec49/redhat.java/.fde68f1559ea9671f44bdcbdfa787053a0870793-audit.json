@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/user/.vscode/data/User/workspaceStorage/5523ec49/redhat.java/.fde68f1559ea9671f44bdcbdfa787053a0870793-audit.json",
+    "files": [
+        {
+            "date": 1768150141816,
+            "name": "/home/user/.vscode/data/User/workspaceStorage/5523ec49/redhat.java/client.log.2026-01-11",
+            "hash": "700a9c66909e62427307ae433d50a71269fc5f2bbcc4df91044dd44e583db3c7"
+        },
+        {
+            "date": 1768201326301,
+            "name": "/home/user/.vscode/data/User/workspaceStorage/5523ec49/redhat.java/client.log.2026-01-12",
+            "hash": "3969565b9d96ab35b81ac6daab149d8252ae95ec5fe601a539a2641015213c87"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,4 @@
+2026-01-11 13:02:17 error   main: Missing i18n uri in manifest in /home/user/project3/webapp/manifest.json. 
+2026-01-11 13:02:35 error   main: Error while updating manifest: SyntaxError: Expected ',' or '}' after property value in JSON at position 2276 (line 102 column 23) 
+2026-01-11 13:02:37 error   main: Error while updating manifest: SyntaxError: Expected ',' or ']' after array element in JSON at position 2298 (line 103 column 9) 
+2026-01-11 13:02:40 error   main: Error while updating manifest: SyntaxError: Expected ',' or ']' after array element in JSON at position 2298 (line 103 column 9) 

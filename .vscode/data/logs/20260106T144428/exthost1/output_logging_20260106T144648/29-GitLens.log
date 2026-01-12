@@ -1,4 +1,0 @@
-GitLens v16.2.1 activating in SAP Business Application Studio (1.105.1) on the web; language='en', logLevel='warn', defaultDateLocale='null' (b2c1f1d8-cbf9-4575-8e11-6b267433b51c|360a01fb-7a60-4748-a867-fc907d06ae071767710828157)
-To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
-[2026-01-06 14:47:11.299] [GIT          ] [/home/user/.vscode/data/Machine] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [82ms]
-

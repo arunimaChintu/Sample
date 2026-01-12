@@ -1,0 +1,12 @@
+{
+  "address": "::",
+  "code": "EADDRINUSE",
+  "errno": -98,
+  "label": "hana-runtime-tools",
+  "level": "error",
+  "message": "Error starting proxy server listen EADDRINUSE: address already in use :::10101",
+  "port": 10101,
+  "stack": "Error: listen EADDRINUSE: address already in use :::10101\n    at Server.setupListenHandle [as _listen2] (node:net:1940:16)\n    at listenInCluster (node:net:1997:12)\n    at Server.listen (node:net:2102:7)\n    at Function.listen (/extbin/local/openvscode-server/extensions/hana-runtime-tools-1.45.0/node_modules/express/lib/application.js:605:24)\n    at Object.<anonymous> (/extbin/local/openvscode-server/extensions/hana-runtime-tools-1.45.0/out/proxy/index.js:219:24)\n    at Generator.next (<anonymous>)\n    at fulfilled (/extbin/local/openvscode-server/extensions/hana-runtime-tools-1.45.0/out/proxy/index.js:38:58)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)",
+  "syscall": "listen",
+  "time": "2026-01-09T17:30:31.784Z"
+}

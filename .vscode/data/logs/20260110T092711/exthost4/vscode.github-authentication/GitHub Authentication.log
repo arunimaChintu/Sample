@@ -1,0 +1,1 @@
+2026-01-10 16:10:32.411 [error] failed to read the github credentianls file: EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/user/.vscode-copilot-secrets.json'

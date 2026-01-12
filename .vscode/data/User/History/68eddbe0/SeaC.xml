@@ -1,0 +1,129 @@
+<mvc:View
+    controllerName="project1.controller.SplitAppView"
+    xmlns="sap.m"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:uxap="sap.uxap"
+    xmlns:layout="sap.ui.layout"
+    xmlns:custom="http://schemas.sap.com/sapui5/extension/sap.ui.core.CustomData/1">
+
+    <SplitApp
+        id="SplitAppDemo"
+        initialDetail="detail"
+        initialMaster="master">
+
+       
+        <detailPages>
+              <Page id="detail" title="{northwind>ProductName}" backgroundDesign="Solid">
+            <uxap:ObjectPageLayout id="objectPage" showTitleInHeaderContent="true" upperCaseAnchorBar="false">
+                <uxap:headerTitle>
+                    <uxap:ObjectPageDynamicHeaderTitle>
+                        <uxap:expandedHeading>
+                            <Title text="{= ${masterDetail>/selectedItem/title} ? ${masterDetail>/selectedItem/title} : 'Select an item'}" level="H2"/>
+                        </uxap:expandedHeading>
+                        <uxap:snappedHeading>
+                            <Title text="{= ${masterDetail>/selectedItem/title} ? ${masterDetail>/selectedItem/title} : 'Select an item'}" level="H4"/>
+                        </uxap:snappedHeading>
+                        <uxap:actions>
+                            <Button text="Activate" type="Emphasized" enabled="{= ${masterDetail>/selectedItem/active} === false }"/>
+                            <Button text="Pause" type="Transparent" enabled="{= ${masterDetail>/selectedItem/active} === true }"/>
+                            <Button text="More Details" type="Transparent" press=".onPressNavToDetail" enabled="{= !!${masterDetail>/selectedItem/title} }"/>
+                        </uxap:actions>
+                    </uxap:ObjectPageDynamicHeaderTitle>
+                </uxap:headerTitle>
+
+                <uxap:headerContent>
+                    <layout:HorizontalLayout allowWrapping="true" class="sapUiSmallMarginBottom">
+                        <VBox class="sapUiTinyMarginEnd">
+                            <Label text="Owner"/>
+                            <Text text="{masterDetail>/selectedItem/owner}"/>
+                        </VBox>
+                        <VBox class="sapUiTinyMarginEnd">
+                            <Label text="Category"/>
+                            <Text text="{masterDetail>/selectedItem/category}"/>
+                        </VBox>
+                        <VBox class="sapUiTinyMarginEnd">
+                            <Label text="Priority"/>
+                            <ObjectStatus text="{masterDetail>/selectedItem/priority}" state="{= ${masterDetail>/selectedItem/priority} === 'High' ? 'Error' : ${masterDetail>/selectedItem/priority} === 'Medium' ? 'Warning' : 'Success' }"/>
+                        </VBox>
+                        <VBox class="sapUiTinyMarginEnd">
+                            <Label text="Status"/>
+                            <ObjectStatus text="{masterDetail>/selectedItem/status}" state="{= ${masterDetail>/selectedItem/progress} >= 80 ? 'Success' : ${masterDetail>/selectedItem/progress} >= 50 ? 'Warning' : 'Error' }"/>
+                        </VBox>
+                    </layout:HorizontalLayout>
+                </uxap:headerContent>
+
+                <uxap:sections>
+                    <uxap:ObjectPageSection title="Overview" visible="{= !!${masterDetail>/selectedItem/title} }">
+                        <uxap:subSections>
+                            <uxap:ObjectPageSubSection title="Summary">
+                                <uxap:blocks>
+                                    <VBox class="sapUiSmallMargin">
+                                        <Text text="{masterDetail>/selectedItem/description}" wrapping="true"/>
+                                        <ProgressIndicator percentValue="{masterDetail>/selectedItem/progress}" displayValue="{= ${masterDetail>/selectedItem/progress} + '%'}" state="{= ${masterDetail>/selectedItem/progress} >= 80 ? 'Success' : ${masterDetail>/selectedItem/progress} >= 50 ? 'Warning' : 'Error' }"/>
+                                    </VBox>
+                                </uxap:blocks>
+                            </uxap:ObjectPageSubSection>
+                            <uxap:ObjectPageSubSection title="Financials">
+                                <uxap:blocks>
+                                    <VBox class="sapUiSmallMargin">
+                                        <Label text="Budget"/>
+                                        <ObjectNumber number="{masterDetail>/selectedItem/budget}" unit="USD" emphasized="true"/>
+                                        <Text text="{= ${masterDetail>/selectedItem/active} ? 'Currently active' : 'On hold'}"/>
+                                    </VBox>
+                                </uxap:blocks>
+                            </uxap:ObjectPageSubSection>
+                        </uxap:subSections>
+                    </uxap:ObjectPageSection>
+
+                    <uxap:ObjectPageSection title="Milestones" visible="{= !!${masterDetail>/selectedItem/title} }">
+                        <uxap:subSections>
+                            <uxap:ObjectPageSubSection title="Checklist">
+                                <uxap:blocks>
+                                    <List items="{masterDetail>/selectedItem/milestones}" headerText="Progress">
+                                        <StandardListItem
+                                            title="{masterDetail>name}"
+                                            info="{= ${masterDetail>done} ? 'Done' : 'Pending'}"
+                                            infoState="{= ${masterDetail>done} ? 'Success' : 'Warning'}"/>
+                                    </List>
+                                </uxap:blocks>
+                            </uxap:ObjectPageSubSection>
+                        </uxap:subSections>
+                    </uxap:ObjectPageSection>
+                </uxap:sections>
+            </uxap:ObjectPageLayout>
+        </Page>
+        <Page id="detailDetail" title="More Details" showNavButton="true" navButtonPress=".onPressDetailBack">
+            <VBox class="sapUiSmallMargin">
+                 <Title text="Deep dive for {masterDetail>/selectedItem/title}" level="H3"/>
+                <ObjectStatus text="{masterDetail>/selectedItem/status}" state="{= ${masterDetail>/selectedItem/progress} >= 80 ? 'Success' : ${masterDetail>/selectedItem/progress} >= 50 ? 'Warning' : 'Error' }"/>
+                <Text text="Owner: {masterDetail>/selectedItem/owner}"/>
+                <Text text="Category: {masterDetail>/selectedItem/category}"/>
+                <ProgressIndicator percentValue="{masterDetail>/selectedItem/progress}" displayValue="{= ${masterDetail>/selectedItem/progress} + '% complete'}" state="{= ${masterDetail>/selectedItem/progress} >= 80 ? 'Success' : ${masterDetail>/selectedItem/progress} >= 50 ? 'Warning' : 'Error' }"/>
+            </VBox>
+        </Page>
+      
+    </detailPages>
+
+           
+       
+
+        
+        <masterPages>
+        <Page id="master" title="Master 1" backgroundDesign="List">
+            <List
+                items="{masterDetail>/items}"
+                mode="SingleSelectMaster"
+                itemPress=".onItemPress">
+                <StandardListItem
+                    title="{masterDetail>title}"
+                    description="{masterDetail>description}"
+                    type="Active"/>
+            </List>
+        </Page>
+
+        
+        
+    </masterPages>
+
+    </SplitApp>
+</mvc:View>

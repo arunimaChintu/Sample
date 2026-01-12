@@ -1,0 +1,16 @@
+<!-- <mvc:View
+  controllerName="project3.controller.Detail"
+  xmlns="sap.m"
+  xmlns:mvc="sap.ui.core.mvc">
+  <Page
+    title="{i18n>detailTitle}"
+    showNavButton="true"
+    navButtonPress=".onNavBack">
+    <content>
+      <VBox class="sapUiSmallMargin">
+        <Text text="{i18n>detailText}" />
+        <Button text="{i18n>backButton}" press=".onNavBack" />
+      </VBox>
+    </content>
+  </Page>
+</mvc:View> -->

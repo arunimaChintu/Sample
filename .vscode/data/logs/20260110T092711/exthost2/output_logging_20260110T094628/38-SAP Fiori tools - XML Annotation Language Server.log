@@ -1,0 +1,162 @@
+2026-01-10 10:35:46 error   main: Missing i18n uri in manifest in /home/user/project2/webapp/manifest.json. 
+2026-01-10 10:37:22 error   main: Error while updating manifest: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json 
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+Error in onManifestFileChanged: Error: Missing metadata localUri for data source northwind in /home/user/project2/webapp/manifest.json
+    at UHn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:124060)
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118704)
+    at async e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117788)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461

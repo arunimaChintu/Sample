@@ -1,0 +1,654 @@
+AppFolders: starting processing setAppFoldersContext()
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost3/vscode.github-authentication' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3969.937ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost3/SAP.vscode-wing-run-config' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2033.452ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1125.642ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost3/SAPSE.vscode-wing-storyboard' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost3/vscode.git' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1390.488ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1573.172ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost3/SAPSE.vscode-wing-cap-run' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 832.118ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost3/SAPSE.vscode-wing-ui5-run' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1210.563ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost3/GitHub.copilot-chat-bas' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 790.675ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost3/SAPSE.hana-project-explorer' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost3/vscode.microsoft-authentication' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1334.375ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1895.573ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost3/vscode.json-language-features' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 824.752ms
+AppFolders: Directory 'file:///home/user/project2' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project2/webapp/view' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 990.421ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1484.361ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/wrappy' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project2/node_modules/yargs-parser' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/yesno' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1689.367ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3092.416ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2487.692ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/lodash/fp' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project2/node_modules/which/bin' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/iconv-lite/encodings/tables' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project2/node_modules/brace-expansion/.github' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3581.253ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/gopd/.github' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3908.041ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/opts/examples' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 4785.914ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/typedarray-to-buffer/test' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 4145.650ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40sap/cf-tools/out' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3224.365ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/async-hook-jl/test' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2923.049ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/import-in-the-middle/test/low-level' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3054.556ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/side-channel-weakmap/.github' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3281.619ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40vscode-logging/logger/LICENSES' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2930.108ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40azure/core-rest-pipeline/dist/react-native/util' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3308.735ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/fs-extra/lib/remove' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3459.386ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40opentelemetry/sdk-trace-base/build/src/platform/browser' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3755.662ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40opentelemetry/resources/build/esnext/detectors/platform/node/machine-id' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3729.681ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3268.555ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/spdy-transport/lib' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2748.019ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/axios/lib/helpers' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1969.801ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40azure/core-rest-pipeline/dist/react-native/retryStrategies' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/make-fetch-happen/node_modules/lru-cache/dist/esm' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2138.573ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/spdy-transport/lib/spdy-transport/protocol/http2' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3045.124ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3103.460ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40opentelemetry/resources/build/esm/detectors/platform/browser' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/domutils/lib/esm' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3315.327ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/resolve/test/resolver/without_basedir' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2606.209ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40opentelemetry/core/build/src/platform/node' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2725.136ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/%40sigstore/core/dist/asn1' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2844.916ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/css-select/lib/helpers' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2833.308ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/parse5/dist/cjs/tokenizer' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3348.974ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/rxjs/dist/cjs/internal/operators' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3127.699ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40opentelemetry/semantic-conventions/build/src/trace' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3236.690ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/cheerio/dist/browser/parsers' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2980.223ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/resolve/.github' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2991.795ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/resolve/.github' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3341.208ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40opentelemetry/semantic-conventions/build/esnext/internal' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3048.948ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/jsdoc/templates/silent' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3230.510ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/yaml-ast-parser/test' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3363.980ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40opentelemetry/api/build/src/experimental/trace' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3661.213ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3300.789ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40opentelemetry/core/build/src/baggage/propagation' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2655.132ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/jsdoc/templates/default/tmpl' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2396.652ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/chevrotain/src/text' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project2/node_modules/rxjs/dist/esm/testing' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2561.732ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3032.418ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3252.030ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/%40babel/types/lib/validators/react' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2832.902ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/applicationinsights/types/%40azure_functions-core' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project2/node_modules/rxjs/dist/esm5/webSocket' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project2/node_modules/rxjs/dist/cjs/internal/scheduled' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1978.360ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40sap/ux-ui5-tooling/dist/tasks/deploy' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2739.676ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/rxjs/ajax' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3310.173ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3043.343ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/rxjs/src/internal/operators' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2974.221ms
+AppFolders: Directory 'file:///home/user/project2/node_modules/%40ui5/cli/node_modules/pacote/node_modules/.bin' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2318.764ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1953.176ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1847.763ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost3/vscode.typescript-language-features' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1365.180ms
+AppFolders: Directory 'file:///home/user/.vscode/data/User/History/2492d649' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1027.314ms
+AppFolders: Directory 'file:///home/user/.vscode/data/User/History/34714b36' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 874.680ms
+AppFolders: Directory 'file:///home/user/project1/webapp/localService/mainService' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2115.919ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost3/SAP.vscode-wing-welcome-screen' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1584.580ms
+AppFolders: Directory 'file:///home/user/project3' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1274.719ms
+AppFolders: Directory 'file:///home/user/project3/webapp/view' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1471.485ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/widest-line' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project3/node_modules/yargs' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1365.770ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2239.740ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/function-bind/test' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project3/node_modules/sisteransi/src' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project3/node_modules/yargs/build/lib' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project3/node_modules/cloneable-readable/node_modules/string_decoder/lib' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project3/node_modules/hasown/.github' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 4349.278ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/pump/.github' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 4628.242ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 4944.234ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/url-join/lib' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 4972.876ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 4188.233ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/%40opentelemetry/sdk-trace-web/build/esm/enums' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 4173.665ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/es-errors/.github' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3200.565ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/math-intrinsics/constants' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project3/node_modules/winston/node_modules/%40colors/colors/lib/custom' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2468.936ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/%40opentelemetry/api/build/esm/baggage/internal' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3561.084ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3898.794ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/async-hook-jl/patches' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3993.984ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/math-intrinsics/.github' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3414.166ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/yaml/dist/schema/core' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3075.759ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/yaml/browser/dist/stringify' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project3/node_modules/ajv/lib' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2850.858ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/%40babel/runtime/regenerator' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3540.049ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/%40typespec/ts-http-runtime/dist/commonjs/retryStrategies' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3620.443ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3855.590ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/rxjs/dist/esm5/internal/testing' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project3/node_modules/chevrotain/src/text' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3579.447ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2946.974ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/%40opentelemetry/api/build/src/trace/internal' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3648.951ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/ajv/lib/vocabularies/validation' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3276.924ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/rxjs/dist/esm/webSocket' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2714.373ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/ajv/lib/compile/jtd' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project3/node_modules/rxjs/dist/esm5/webSocket' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3283.281ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3238.242ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/%40sap/ux-ui5-tooling/dist/tasks/deploy' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3799.208ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3321.843ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/rxjs/dist/bundles' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2316.013ms
+AppFolders: Directory 'file:///home/user/project3/node_modules/rxjs/dist/esm/internal/scheduled' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project3/node_modules/rxjs/src/internal/operators' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/project3/node_modules/rxjs/src/internal/scheduled' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2464.679ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3174.557ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2919.488ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2656.765ms
+AppFolders: Directory 'file:///home/user/.vscode/data/User/History/634e507' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 935.727ms
+AppFolders: Directory 'file:///home/user/.vscode/data/User/History/417cc074' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 944.812ms
+AppFolders: Directory 'file:///home/user/.vscode/data/User/History/4b8bf5f9' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 932.897ms
+AppFolders: Directory 'file:///home/user/project3/webapp/localService/mainService' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1577.437ms

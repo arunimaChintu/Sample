@@ -1,0 +1,30 @@
+AppFolders: starting processing setAppFoldersContext()
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1123.931ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260112T065858/exthost1/SAP.vscode-wing-welcome-screen' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1409.230ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260112T065858/exthost1/vscode.typescript-language-features' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1312.543ms
+AppFolders: Directory 'file:///home/user/.vscode/data/User/History/48cb4d27' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 903.324ms
+AppFolders: Directory 'file:///home/user/.vscode/data/User/History/6901a775' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1153.019ms

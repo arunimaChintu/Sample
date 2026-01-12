@@ -1,0 +1,20 @@
+2026-01-11 18:28:48.517 [error] Incomplete manifest definition: no routing defined { location: { path: 'webapp/manifest.json', range: [ 'sap.ui5' ] } }
+2026-01-11 18:28:48.541 [error] Incomplete manifest definition: no routing defined { location: { path: 'webapp/manifest.json', range: [ 'sap.ui5' ] } }
+2026-01-11 18:28:48.881 [error] Failed to update the webapp folder from the config file. Error:  'EntryNotFound (FileSystemError): ftfs:/home/user/project4/src/.schemas/CustomPage.json'
+2026-01-11 18:29:09.951 [error] Incomplete manifest definition: no routing defined { location: { path: 'webapp/manifest.json', range: [ 'sap.ui5' ] } }
+2026-01-11 18:29:38.308 [error] Incomplete manifest definition: no routing defined { location: { path: 'webapp/manifest.json', range: [ 'sap.ui5' ] } }
+2026-01-11 18:30:09.968 [error] Incomplete manifest definition: no routing defined { location: { path: 'webapp/manifest.json', range: [ 'sap.ui5' ] } }
+2026-01-11 18:31:35.067 [error] Incomplete manifest definition: no routing defined { location: { path: 'webapp/manifest.json', range: [ 'sap.ui5' ] } }
+2026-01-11 18:32:23.692 [error] Incomplete manifest definition: no routing defined { location: { path: 'webapp/manifest.json', range: [ 'sap.ui5' ] } }
+2026-01-11 18:32:41.244 [error] An error occurred when importing '/home/user/project4' "ENOENT: no such file or directory, open '/home/user/project4/webapp/localService/mainService/metadata.xml'"
+2026-01-11 18:33:00.621 [error] Incomplete manifest definition: no routing defined { location: { path: 'webapp/manifest.json', range: [ 'sap.ui5' ] } }
+2026-01-11 18:34:48.512 [error] An error occurred when importing '/home/user/project4' "ENOENT: no such file or directory, open '/home/user/project4/webapp/localService/mainService/metadata.xml'"
+2026-01-11 18:35:28.877 [error] Incomplete manifest definition: no routing defined { location: { path: 'webapp/manifest.json', range: [ 'sap.ui5' ] } }
+2026-01-11 18:37:03.283 [error] An error occurred when importing '/home/user/project4' "ENOENT: no such file or directory, open '/home/user/project4/webapp/localService/mainService/metadata.xml'"
+2026-01-11 18:43:04.168 [error] Error retrieving config for project '/home/user/project4'. SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at readJSON (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:32:15723)
+    at generateSapuxConfig (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1194:8205)
+    at generateConfig (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:4347:49170)
+    at onWebappChanged (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:4347:50240)
+2026-01-11 18:43:04.168 [error] An error occurred when writing config to the manifest.json file and changes in /home/user/project4. Error:  'Error: SyntaxError: Unexpected end of JSON input'

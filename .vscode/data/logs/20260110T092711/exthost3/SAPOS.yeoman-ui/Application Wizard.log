@@ -1,0 +1,43 @@
+{
+  "label": "Application Wizard.AbstractWebviewPanel.@sap/fiori:app.@sap/generator-fiori",
+  "level": "error",
+  "message": "Discovering ABAP Environments failed. Please ensure you are logged into Cloud Foundry. For more information, see https://docs.cloudfoundry.org/cf-cli/getting-started.html#login. ABAP environments unavailable.",
+  "time": "2026-01-10T11:39:13.633Z"
+}
+{
+  "label": "Application Wizard.AbstractWebviewPanel.@sap/fiori:app.@sap/generator-fiori",
+  "level": "error",
+  "message": "URL not found.",
+  "time": "2026-01-10T11:39:25.837Z"
+}
+{
+  "label": "Application Wizard.AbstractWebviewPanel.@sap/fiori:app.@sap/generator-fiori",
+  "level": "error",
+  "message": "URL not found.",
+  "time": "2026-01-10T11:39:32.670Z"
+}
+{
+  "label": "Application Wizard.AbstractWebviewPanel.@sap/fiori:app.@sap/generator-fiori",
+  "level": "error",
+  "message": "URL not found.",
+  "time": "2026-01-10T11:39:59.480Z"
+}
+{
+  "label": "Application Wizard.AbstractWebviewPanel.@sap/fiori:app.@sap/generator-fiori",
+  "level": "error",
+  "message": "URL not found.",
+  "time": "2026-01-10T11:41:08.630Z"
+}
+{
+  "label": "Application Wizard.AbstractWebviewPanel.@sap/fiori:app.@sap/generator-fiori",
+  "level": "error",
+  "message": "URL not found.",
+  "time": "2026-01-10T11:44:44.349Z"
+}
+{
+  "label": "Application Wizard.AbstractWebviewPanel",
+  "level": "error",
+  "message": "@sap/fiori:app generator failed - process.on(uncaughtException) Channel has been closed",
+  "stack": "Error: Channel has been closed\n    at n (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:121:2816)\n    at Object.info (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:121:3161)\n    at T.info (/extbin/local/openvscode-server/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45257)\n    at ChildProcess.<anonymous> (/extbin/local/openvscode-server/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:600486)\n    at ChildProcess.emit (node:events:519:28)\n    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)",
+  "time": "2026-01-10T14:27:52.341Z"
+}

@@ -4550,3 +4550,8 @@
 2026-01-09 09:33:35.569 [error] AppFolders: Error storing search cache: TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
 2026-01-09 09:33:35.569 [error] AppFolders: Error storing search cache: TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
 2026-01-09 09:33:35.569 [error] AppFolders: Error storing search cache: TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+2026-01-09 09:51:55.875 [error] AppFolders: Error storing search cache: TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+2026-01-09 09:52:55.880 [error] AppFolders: Error storing search cache: TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+2026-01-09 09:52:55.880 [error] AppFolders: Error storing search cache: TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+2026-01-09 09:53:55.886 [error] AppFolders: Error storing search cache: TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+2026-01-09 09:56:55.874 [error] AppFolders: Error storing search cache: TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined

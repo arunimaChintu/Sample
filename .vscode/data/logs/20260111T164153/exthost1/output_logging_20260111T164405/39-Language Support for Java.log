@@ -1,0 +1,6 @@
+OpenJDK 64-Bit Server VM warning: Options -Xverify:none and -noverify were deprecated in JDK 13 and will likely be removed in a future release.
+WARNING: Using incubator modules: jdk.incubator.vector
+Jan 11, 2026 4:49:06 PM org.apache.aries.spifly.BaseActivator log
+INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic
+Jan 11, 2026 4:49:06 PM org.apache.aries.spifly.BaseActivator log
+INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic

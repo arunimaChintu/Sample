@@ -1,0 +1,26 @@
+<mvc:View
+  controllerName="project4.controller.View1"
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m">
+  <Page title="Project 4">
+    <content>
+    <Input value="{ui/ProductName}" placeholder="ProductName" width="250px" class="sapUiMediumMarginEnd"></Input>
+    <Input value="{ui/ProductDescription}" placeholder="ProductDescription" width="250px" class="sapUiMediumMarginEnd"></Input>
+    <Input value="{ui/ProductID}" placeholder="ProductID" width="250px" class="sapUiMediumMarginEnd"></Input>
+    <Input value="{ui/ProductReleaseDate}" placeholder="ProductReleaseDate" width="250px" class="sapUiMediumMarginEnd"></Input>
+    <Input value="{ui/ProductDiscontinuedDate}" placeholder="ProductDiscontinuedDate" width="250px" class="sapUiMediumMarginEnd"></Input>
+    <Input value="{ui/ProductRating}" placeholder="ProductRating" width="250px" class="sapUiMediumMarginEnd"></Input>
+    <Input value="{ui/ProductPrice}" placeholder="ProductPrice" width="250px" class="sapUiMediumMarginEnd"></Input>
+    
+    <Button text="Create" press="onCreate"></Button>
+      <List
+        id="productList"
+        headerText="{view>headerText}" 
+        items="{/Products}">
+        <StandardListItem
+          title="{Name}" description="{Description}" 
+           />
+      </List>
+    </content>
+  </Page>
+</mvc:View>

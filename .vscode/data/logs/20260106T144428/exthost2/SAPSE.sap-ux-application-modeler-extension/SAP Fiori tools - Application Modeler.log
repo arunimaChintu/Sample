@@ -1,7 +1,0 @@
-2026-01-06 15:23:45.532 [error] Error retrieving config for project '/home/user/projects/project1'. SyntaxError: Expected ',' or '}' after property value in JSON at position 113 (line 6 column 5)
-    at JSON.parse (<anonymous>)
-    at readJSON (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:32:15723)
-    at generateSapuxConfig (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1194:8205)
-    at generateConfig (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:4347:49170)
-    at onWebappChanged (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:4347:50240)
-2026-01-06 15:23:45.532 [error] An error occurred when writing config to the manifest.json file and changes in /home/user/projects/project1. Error:  "Error: SyntaxError: Expected ',' or '}' after property value in JSON at position 113 (line 6 column 5)"

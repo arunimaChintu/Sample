@@ -1,0 +1,96 @@
+AppFolders: starting processing setAppFoldersContext()
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 954.460ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost1/SAPSE.hana-project-explorer' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 904.301ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost1/vscode.microsoft-authentication' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 787.396ms
+AppFolders: Directory 'file:///home/user/.local/share/gk' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1013.349ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost2' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1012.393ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost2/SAPSE.hana-xs-tools' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1262.208ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost2/output_logging_20260110T094628' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1230.428ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost2/SAPSE.vscode-wing-cds-editor-bas' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 995.502ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost2/vscode.github-authentication' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1122.919ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost2/SAP.vscode-wing-run-config' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1100.669ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost2/SAPSE.vscode-wing-storyboard' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1106.071ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost2/vscode.git' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1133.200ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost2/SAPSE.vscode-wing-cap-run' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 959.452ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost2/vscode.microsoft-authentication' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 893.010ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260110T092711/exthost2/vscode.typescript-language-features' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2440.283ms
+AppFolders: Directory 'file:///home/user/.vscode/data/User/globalStorage/redhat.java/1.31.0/config_linux/org.eclipse.osgi/117' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 775.618ms

@@ -1,0 +1,8 @@
+GitLens v16.2.1 activating in SAP Business Application Studio (1.105.1) on the web; language='en', logLevel='warn', defaultDateLocale='null' (c09e82de-3b40-4980-8f87-19e05581c088|528c707e-3025-49fe-b03f-5c9e5734b6391768038404558)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2026-01-10 09:46:54.022] [GIT    *879ms] [/home/user] git rev-parse --show-toplevel [*879ms] (slow)
+[2026-01-10 09:58:32.605] [GIT   *4092ms] [/home/user] git status --porcelain=v2 --branch -u --find-renames -- [*4092ms] (slow)
+[2026-01-10 09:58:35.304] [GIT   *1725ms] [/home/user] git status --porcelain=v2 --branch -u --find-renames -- [*1725ms] (slow)
+[2026-01-10 10:22:41.743] [GIT   *1611ms] [/home/user] git status --porcelain=v2 --branch -u --find-renames -- [*1611ms] (slow)
+[2026-01-10 10:24:50.458] [GIT   *5387ms] [/home/user] git status --porcelain=v2 --branch -u --find-renames -- [*5387ms] (slow)
+[2026-01-10 11:20:55.317] [GIT   *3173ms] [/home/user] git status --porcelain=v2 --branch -u --find-renames -- [*3173ms] (slow)

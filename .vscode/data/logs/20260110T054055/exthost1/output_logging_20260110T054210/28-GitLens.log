@@ -1,0 +1,9 @@
+GitLens v16.2.1 activating in SAP Business Application Studio (1.105.1) on the web; language='en', logLevel='warn', defaultDateLocale='null' (c09e82de-3b40-4980-8f87-19e05581c088|c5edf33d-d0e0-4d44-a4e3-650a2d9401ef1768023735192)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2026-01-10 05:42:34.064] [GIT    *712ms] [/home/user] git ls-files -- projects/project1/webapp/manifest.json [*712ms] (slow)
+[2026-01-10 05:42:34.064] [GIT    *745ms] [/home/user] git rev-list --max-parents=0 HEAD -- [*745ms] (slow)
+[2026-01-10 05:42:34.065] [GIT    *747ms] [/home/user/.nvm] git remote -v [*747ms] (slow)
+[2026-01-10 05:42:34.065] [GIT    *748ms] [/home/user] git remote -v [*748ms] (slow)
+[2026-01-10 05:42:34.066] [GIT    *762ms] [/home/user/.nvm] git rev-parse --git-dir --git-common-dir [*762ms] (slow)
+[2026-01-10 05:42:39.975] loadLocalRepoDataMap
+EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/user/.local/share/gk/repoMapping.json'

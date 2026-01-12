@@ -1,0 +1,23 @@
+2026-01-10 11:50:37 error   main: Missing i18n uri in manifest in /home/user/project1/webapp/manifest.json. 
+2026-01-10 11:53:20 error   main: Missing i18n uri in manifest in /home/user/project1/webapp/manifest.json. 
+2026-01-10 11:53:20 error   main: Error while updating manifest: Error: Could not find service for file file:///home/user/project1/webapp/manifest.json in the project! 
+Error in onManifestFileChanged: Error: Could not find service for file file:///home/user/project1/webapp/manifest.json in the project!
+    at e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117855)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461
+2026-01-10 12:31:44 error   main: Missing i18n uri in manifest in /home/user/project3/webapp/manifest.json. 
+2026-01-10 12:33:17 error   main: Missing i18n uri in manifest in /home/user/project3/webapp/manifest.json. 
+2026-01-10 12:42:37 error   main: Missing i18n uri in manifest in /home/user/project3/webapp/manifest.json. 
+2026-01-10 12:43:12 error   main: Error while updating manifest: SyntaxError: Expected double-quoted property name in JSON at position 709 (line 25 column 11) 
+2026-01-10 12:43:15 error   main: Error while updating manifest: SyntaxError: Expected double-quoted property name in JSON at position 718 (line 26 column 9) 
+2026-01-10 12:43:20 error   main: Missing i18n uri in manifest in /home/user/project3/webapp/manifest.json. 
+2026-01-10 12:53:27 error   main: Missing i18n uri in manifest in /home/user/project3/webapp/manifest.json. 
+2026-01-10 12:53:27 error   main: Error while updating manifest: Error: Could not find service for file file:///home/user/project3/webapp/manifest.json in the project! 
+Error in onManifestFileChanged: Error: Could not find service for file file:///home/user/project3/webapp/manifest.json in the project!
+    at e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117855)
+    at async e.rebuildContext (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:112800)
+    at async e.updateManifestForUi5App (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111277)
+    at async e.updateManifest (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:111955)
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1372:4461

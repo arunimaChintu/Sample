@@ -1,0 +1,34 @@
+   create ../../../home/user/project4/webapp/Component.js
+   create ../../../home/user/project4/webapp/index.html
+   create ../../../home/user/project4/webapp/manifest.json
+   create ../../../home/user/project4/webapp/i18n/i18n.properties
+   create ../../../home/user/project4/.gitignore
+   create ../../../home/user/project4/package.json
+   create ../../../home/user/project4/ui5-local.yaml
+   create ../../../home/user/project4/ui5.yaml
+   create ../../../home/user/project4/webapp/model/models.js
+   create ../../../home/user/project4/webapp/controller/App.controller.js
+   create ../../../home/user/project4/webapp/css/style.css
+   create ../../../home/user/project4/webapp/view/App.view.xml
+   create ../../../home/user/project4/webapp/view/View1.view.xml
+   create ../../../home/user/project4/webapp/controller/View1.controller.js
+   create ../../../home/user/project4/webapp/test/integration/AllJourneys.js
+   create ../../../home/user/project4/webapp/test/integration/NavigationJourney.js
+   create ../../../home/user/project4/webapp/test/integration/arrangements/Startup.js
+   create ../../../home/user/project4/webapp/test/integration/opaTests.qunit.html
+   create ../../../home/user/project4/webapp/test/integration/opaTests.qunit.js
+   create ../../../home/user/project4/webapp/test/integration/pages/App.js
+   create ../../../home/user/project4/webapp/test/integration/pages/View1.js
+   create ../../../home/user/project4/webapp/test/unit/AllTests.js
+   create ../../../home/user/project4/webapp/test/unit/controller/View1.controller.js
+   create ../../../home/user/project4/webapp/test/unit/unitTests.qunit.html
+   create ../../../home/user/project4/webapp/test/unit/unitTests.qunit.js
+   create ../../../home/user/project4/webapp/test/testsuite.qunit.js
+   create ../../../home/user/project4/webapp/test/testsuite.qunit.html
+   create ../../../home/user/project4/ui5-mock.yaml
+   create ../../../home/user/project4/webapp/localService/mainService/metadata.xml
+   create ../../../home/user/project4/README.md
+   create ../../../home/user/project4/.appGenInfo.json
+          
+No change to package.json was detected. No package manager install will be executed.
+    force ../../../home/user/.vscode/launch.json

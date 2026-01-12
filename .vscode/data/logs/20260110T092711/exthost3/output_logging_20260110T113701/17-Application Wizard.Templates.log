@@ -1,0 +1,74 @@
+          [2026-01-10 11:39:13] ERROR: Discovering ABAP Environments failed. Please ensure you are logged into Cloud Foundry. For more information, see https://docs.cloudfoundry.org/cf-cli/getting-started.html#login. ABAP environments unavailable.
+          [2026-01-10 11:39:25] ERROR: URL not found.
+          [2026-01-10 11:39:32] ERROR: URL not found.
+          [2026-01-10 11:39:59] ERROR: URL not found.
+          [2026-01-10 11:41:08] ERROR: URL not found.
+          [2026-01-10 11:44:44] ERROR: URL not found.
+   create ../../../home/user/project2/webapp/Component.js
+   create ../../../home/user/project2/webapp/index.html
+   create ../../../home/user/project2/webapp/manifest.json
+   create ../../../home/user/project2/webapp/i18n/i18n.properties
+   create ../../../home/user/project2/.gitignore
+   create ../../../home/user/project2/package.json
+   create ../../../home/user/project2/ui5-local.yaml
+   create ../../../home/user/project2/ui5.yaml
+   create ../../../home/user/project2/webapp/model/models.js
+   create ../../../home/user/project2/webapp/controller/App.controller.js
+   create ../../../home/user/project2/webapp/css/style.css
+   create ../../../home/user/project2/webapp/view/App.view.xml
+   create ../../../home/user/project2/webapp/view/View1.view.xml
+   create ../../../home/user/project2/webapp/controller/View1.controller.js
+   create ../../../home/user/project2/webapp/test/integration/AllJourneys.js
+   create ../../../home/user/project2/webapp/test/integration/NavigationJourney.js
+   create ../../../home/user/project2/webapp/test/integration/arrangements/Startup.js
+   create ../../../home/user/project2/webapp/test/integration/opaTests.qunit.html
+   create ../../../home/user/project2/webapp/test/integration/opaTests.qunit.js
+   create ../../../home/user/project2/webapp/test/integration/pages/App.js
+   create ../../../home/user/project2/webapp/test/integration/pages/View1.js
+   create ../../../home/user/project2/webapp/test/unit/AllTests.js
+   create ../../../home/user/project2/webapp/test/unit/controller/View1.controller.js
+   create ../../../home/user/project2/webapp/test/unit/unitTests.qunit.html
+   create ../../../home/user/project2/webapp/test/unit/unitTests.qunit.js
+   create ../../../home/user/project2/webapp/test/testsuite.qunit.js
+   create ../../../home/user/project2/webapp/test/testsuite.qunit.html
+   create ../../../home/user/project2/ui5-mock.yaml
+   create ../../../home/user/project2/webapp/localService/mainService/metadata.xml
+   create ../../../home/user/project2/README.md
+   create ../../../home/user/project2/.appGenInfo.json
+          
+No change to package.json was detected. No package manager install will be executed.
+    force ../../../home/user/.vscode/launch.json
+   create ../../../home/user/project3/webapp/Component.js
+   create ../../../home/user/project3/webapp/index.html
+   create ../../../home/user/project3/webapp/manifest.json
+   create ../../../home/user/project3/webapp/i18n/i18n.properties
+   create ../../../home/user/project3/.gitignore
+   create ../../../home/user/project3/package.json
+   create ../../../home/user/project3/ui5-local.yaml
+   create ../../../home/user/project3/ui5.yaml
+   create ../../../home/user/project3/webapp/model/models.js
+   create ../../../home/user/project3/webapp/controller/App.controller.js
+   create ../../../home/user/project3/webapp/css/style.css
+   create ../../../home/user/project3/webapp/view/App.view.xml
+   create ../../../home/user/project3/webapp/view/View1.view.xml
+   create ../../../home/user/project3/webapp/controller/View1.controller.js
+   create ../../../home/user/project3/webapp/test/integration/AllJourneys.js
+   create ../../../home/user/project3/webapp/test/integration/NavigationJourney.js
+   create ../../../home/user/project3/webapp/test/integration/arrangements/Startup.js
+   create ../../../home/user/project3/webapp/test/integration/opaTests.qunit.html
+   create ../../../home/user/project3/webapp/test/integration/opaTests.qunit.js
+   create ../../../home/user/project3/webapp/test/integration/pages/App.js
+   create ../../../home/user/project3/webapp/test/integration/pages/View1.js
+   create ../../../home/user/project3/webapp/test/unit/AllTests.js
+   create ../../../home/user/project3/webapp/test/unit/controller/View1.controller.js
+   create ../../../home/user/project3/webapp/test/unit/unitTests.qunit.html
+   create ../../../home/user/project3/webapp/test/unit/unitTests.qunit.js
+   create ../../../home/user/project3/webapp/test/testsuite.qunit.js
+   create ../../../home/user/project3/webapp/test/testsuite.qunit.html
+   create ../../../home/user/project3/ui5-mock.yaml
+   create ../../../home/user/project3/webapp/localService/mainService/metadata.xml
+   create ../../../home/user/project3/README.md
+   create ../../../home/user/project3/.appGenInfo.json
+          
+No change to package.json was detected. No package manager install will be executed.
+    force ../../../home/user/.vscode/launch.json

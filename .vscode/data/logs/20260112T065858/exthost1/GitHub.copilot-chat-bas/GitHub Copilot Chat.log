@@ -1,0 +1,45 @@
+2026-01-12 06:59:59.747 [error] Copilot extension not found
+2026-01-12 07:00:05.451 [error] Error: GitHubLoginFailed
+    at VSCodeCopilotTokenManager._authShowWarnings (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:229399:13)
+    at VSCodeCopilotTokenManager.getCopilotToken (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:229332:29)
+    at AuthenticationService.getCopilotToken (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:200998:22)
+    at AuthUpgradeAsk.waitForChatEnabled (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:201105:28)
+    at AuthUpgradeAsk.run (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:201099:5)
+    at AuthenticationContrib.askToUpgradeAuthPermissions (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:201081:5): Failed to get copilot token
+2026-01-12 07:00:05.451 [error] You are not signed in to GitHub. Please sign in to use Copilot.
+2026-01-12 07:00:05.452 [error] Error: GitHubLoginFailed
+    at VSCodeCopilotTokenManager._authShowWarnings (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:229399:13)
+    at VSCodeCopilotTokenManager.getCopilotToken (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:229332:29)
+    at AuthenticationService.getCopilotToken (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:200998:22)
+    at LanguageModelAccess._getToken (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:213840:28)
+    at update2 (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:213817:12)
+    at LanguageModelAccess._registerEmbeddings (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:213836:5)
+    at async Promise.all (index 1)
+    at async Promise.allSettled (index 1)
+    at ContributionCollection.waitForActivationBlockers (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:194356:5)
+    at /extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:194390:5
+    at baseActivate (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:194385:3)
+    at Gb.n (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:13382)
+    at Gb.m (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:13345)
+    at Gb.l (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:12801)
+2026-01-12 07:00:13.488 [error] You are not signed in to GitHub. Please sign in to use Copilot.
+2026-01-12 07:00:13.488 [error] Error: GitHubLoginFailed
+    at VSCodeCopilotTokenManager._authShowWarnings (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:229399:13)
+    at VSCodeCopilotTokenManager.getCopilotToken (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:229332:29)
+    at AuthenticationService.getCopilotToken (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:200998:22)
+    at LanguageModelAccess._getToken (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:213840:28)
+    at update2 (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:213817:12)
+2026-01-12 07:00:13.488 [error] Error: GitHubLoginFailed
+    at VSCodeCopilotTokenManager._authShowWarnings (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:229399:13)
+    at VSCodeCopilotTokenManager.getCopilotToken (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:229332:29)
+    at AuthenticationService.getCopilotToken (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:200998:22)
+    at LanguageModelAccess._getToken (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:213840:28)
+    at LanguageModelAccess._provideLanguageModelChatInfo (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:213712:21)
+    at vy.$provideLanguageModelChatInfo (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:29352)
+2026-01-12 07:00:15.900 [error] Error: GitHubLoginFailed
+    at VSCodeCopilotTokenManager._authShowWarnings (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:229399:13)
+    at VSCodeCopilotTokenManager.getCopilotToken (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:229332:29)
+    at AuthenticationService.getCopilotToken (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:200998:22)
+    at LanguageModelAccess._getToken (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:213840:28)
+    at LanguageModelAccess._provideLanguageModelChatInfo (/extbin/local/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:213712:21)
+    at vy.$provideLanguageModelChatInfo (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:29352)

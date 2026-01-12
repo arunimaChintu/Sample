@@ -1,0 +1,4 @@
+GitLens v16.2.1 activating in SAP Business Application Studio (1.105.1) on the web; language='en', logLevel='warn', defaultDateLocale='null' (c09e82de-3b40-4980-8f87-19e05581c088|389d2310-3be4-48db-bdcf-81a2546c25de1768045036205)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2026-01-10 11:46:34.916] [GIT   *1343ms] [/home/user] git status --porcelain=v2 --branch -u --find-renames -- [*1343ms] (slow)
+[2026-01-10 11:47:37.838] [GIT   *2007ms] [/home/user] git blame --root --incremental -- project1/webapp/view/View1.view.xml [*2007ms] (slow)
