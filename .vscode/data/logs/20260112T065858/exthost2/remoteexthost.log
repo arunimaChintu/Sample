@@ -1201,3 +1201,7 @@
     at Object.stat (node:internal/fs/promises:1039:18)
 2026-01-12 12:08:23.842 [error] Error: ENOENT: no such file or directory, stat '/home/user/.local/share/gk/lockfile'
     at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 12:08:26.958 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 12:08:27.460 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
