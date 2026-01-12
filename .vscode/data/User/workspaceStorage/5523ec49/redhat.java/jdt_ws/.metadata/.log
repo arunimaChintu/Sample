@@ -276,3 +276,15 @@ Command-line arguments:  -data /home/user/.vscode/data/User/workspaceStorage/552
 
 !ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-12 07:02:19.247
 !MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-12 12:06:57.879
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-12 12:06:57.897
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-12 12:06:57.970
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-12 12:06:57.981
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

@@ -6878,3 +6878,139 @@
     at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
     at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
     at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-12 11:48:23.994 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:48:24.284 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/refs/remotes/origin/main'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:48:24.468 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/refs/remotes/origin/main'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:48:24.469 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:48:24.469 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/refs/remotes/origin/main'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:48:31.966 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/gc.pid'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:48:31.966 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/gc.log.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:49:08.709 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1787035122'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:49:08.757 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1787035122'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:49:09.027 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1787035122'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-12 11:49:13.654 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1315500251'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:49:13.759 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1315500251'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:49:14.024 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1315500251'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-12 11:49:18.670 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1228847323'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:49:18.755 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1228847323'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:49:19.010 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1228847323'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-12 11:49:21.793 [error] Error: ENOENT: no such file or directory, stat '/home/user/.vscode/data/User/History/-8fa139a/tNKH.xml'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:49:53.876 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config4102392715'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:49:53.877 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config4102392715'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 11:49:54.194 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config4102392715'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-12 12:06:54.144 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config4103759510'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 12:06:54.144 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config4103759510'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 12:06:54.144 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config3436000756'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 12:06:54.144 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config3436000756'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 12:06:54.144 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config3901423673'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 12:06:54.144 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config3901423673'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 12:06:54.144 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config2818040791'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 12:06:54.145 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config2818040791'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 12:06:54.145 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config3186197351'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 12:06:54.145 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config3186197351'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-12 12:06:54.650 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config4103759510'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-12 12:06:54.650 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config3436000756'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-12 12:06:54.650 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config3901423673'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-12 12:06:54.650 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config2818040791'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-12 12:06:54.650 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config3186197351'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-12 12:06:57.816 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2026-01-12 12:06:57.834 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+    at Object.dispose (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:142:122634)
+    at $0.<anonymous> (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:24558)
+    at $0.dispose (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:24654)
+    at Object.dispose (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1154:48762)
+    at /extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1425:15117
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1425:15099)
+    at Hi (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:25:746)
+    at k2.b (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:15119)
+    at k2.dispose (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:25:1227)
+    at xZ.eb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:11992)
+    at file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+    at Array.map (<anonymous>)
+    at xZ.$ (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+    at xZ.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+    at W3.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+    at Ss (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:10410)
+    at ad.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:8562)
+    at $.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at $.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at So.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at ov.A (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+    at ad.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:11975)
+    at $.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at $.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at Sx.acceptChunk (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+    at ad.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+    at $.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at $.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at AN.z (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:21724)
+2026-01-12 12:06:57.886 [error] Error: Channel has been closed
+    at n (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:121:2816)
+    at Object.info (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:121:3161)
+    at T.info (/extbin/local/openvscode-server/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45257)
+    at ChildProcess.<anonymous> (/extbin/local/openvscode-server/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:600486)
+    at ChildProcess.emit (node:events:519:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)

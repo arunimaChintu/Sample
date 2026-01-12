@@ -28,3 +28,15 @@ AppFolders:
 	subWebappRoots: 0
 	manifestAppDescRoots: 0
 AppFolders: Function setContext() done in 1153.019ms
+AppFolders: Directory 'file:///home/user/.git/refs/remotes/origin' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1592.780ms
+AppFolders: Directory 'file:///home/user/.vscode/data/User/History/2fa8717d' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 884.119ms

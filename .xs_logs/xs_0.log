@@ -107,3 +107,8 @@
 # [2026-01-12 06:59:53:198] xs oauth-token
 
 [2026-01-12 06:59:53:274]-[CLI]-[error]-[.]-[.]: 
+
+# XS command line client version: v1.3.7.250513102338 REL (built 2025-05-13 10:23:38, codeline REL, SAP SE)
+# [2026-01-12 12:07:53:404] xs oauth-token
+
+[2026-01-12 12:07:53:465]-[CLI]-[error]-[.]-[.]: 

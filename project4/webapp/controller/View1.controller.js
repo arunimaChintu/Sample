@@ -13,33 +13,36 @@ sap.ui.define([
 
       this.setModel(oViewModel, "view");
     },
-    onCreate: function(){
-     var oModel = this.getView().getModel();
-     let uiModel = this.getView().getModel("ui")
-     var newProduct = {
-      Name: uiModel.getProperty("/ProductName"),
-      ID :5,
-      Description:"16-Ounce Plastic Bottles (Pack of 12)",
-      ReleaseDate:"\/Date(1154649600000)\/",
-      DiscontinuedDate:null,
-      Rating:3,
-      Price:"22.8"
-     };
-     oModel.setUseBatch(false);
-     oModel.create("/Products", newProduct,{
-      success: function(){
-        MessageToast.show("Created");
-        oModel.refresh(true);
-      },
-      error: function(){
-        MessageToast.show('failed to create');
-      }
-     })
+    onCreate: function () {
+  var oModel = this.getView().getModel();
+  var uiModel = this.getView().getModel("ui");
+
+  var newProduct = {
+    Name: uiModel.getProperty("/ProductName"),
+    Description: uiModel.getProperty("/ProductDescription"),
+    ReleaseDate: new Date(),
+    ID:5,
+    DiscontinuedDate: null,
+    Rating: 3,
+    Price: "22.8"
+  };
+
+  oModel.create("/Products", newProduct, {
+    success: function () {
+      MessageToast.show("Created");
+      oModel.refresh();
     },
-    onPrev: function () {
-    var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
-    oRouter.navTo("Detail");
+    error: function (oError) {
+      console.error(oError.responseText);
+      MessageToast.show("Failed to create");
+    }
+  });
 }
+,
+    onPrev: function () {
+  this.getOwnerComponent().getRouter().navTo("Detail");
+}
+
 
   });
 });
