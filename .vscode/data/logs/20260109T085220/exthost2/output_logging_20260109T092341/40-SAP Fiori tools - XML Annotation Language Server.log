@@ -1,0 +1,4 @@
+Error in onManifestFileChanged: Error: Could not create project context for file:///home/user/project1/node_modules/%40sap-ux/preview-middleware/dist/client/manifest.json.
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118813)
+    at e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117796)
+2026-01-09 09:29:18 error   main: Error while creating project context for file:///home/user/project1/node_modules/%40sap-ux/preview-middleware/dist/client/manifest.json: Error: Could not create project context for file:///home/user/project1/node_modules/%40sap-ux/preview-middleware/dist/client/manifest.json. 

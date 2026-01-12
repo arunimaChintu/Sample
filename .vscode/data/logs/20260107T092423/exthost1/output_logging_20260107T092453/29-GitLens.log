@@ -40,3 +40,5 @@ To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: E
 
 [2026-01-07 09:53:20.620] [GIT          ] [/home/user/projects/project1/webapp/model] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [14ms]
 
+[2026-01-07 10:02:09.732] [GIT          ] [/home/user/.git] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • this operation must be run in a work tree [29ms]
+

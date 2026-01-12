@@ -52,3 +52,15 @@ AppFolders:
 	subWebappRoots: 0
 	manifestAppDescRoots: 0
 AppFolders: Function setContext() done in 1193.629ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20260107T092423/exthost1/SAP.vscode-wing-welcome-screen' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 972.333ms
+AppFolders: Directory 'file:///home/user/.git/refs/remotes/origin' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1021.323ms

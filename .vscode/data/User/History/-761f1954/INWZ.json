@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "title": "Item 1",
+      "description": "Detail for Item 1",
+      "category": "Operations",
+      "owner": "Aditi",
+      "priority": "High",
+      "status": "In Progress",
+      "progress": 65,
+      "budget": 125000,
+      "active": true,
+      "milestones": [
+        { "name": "Kickoff", "done": true },
+        { "name": "Design", "done": true },
+        { "name": "Implementation", "done": false }
+      ]
+    },
+    {
+      "title": "Item 2",
+      "description": "Detail for Item 2",
+      "category": "Finance",
+      "owner": "Ravi",
+      "priority": "Medium",
+      "status": "Review",
+      "progress": 45,
+      "budget": 82000,
+      "active": false,
+      "milestones": [
+        { "name": "Requirements", "done": true },
+        { "name": "Validation", "done": false },
+        { "name": "Sign-off", "done": false }
+      ]
+    },
+    {
+      "title": "Item 3",
+      "description": "Detail for Item 3",
+      "category": "HR",
+      "owner": "Meera",
+      "priority": "Low",
+      "status": "Planned",
+      "progress": 20,
+      "budget": 54000,
+      "active": true,
+      "milestones": [
+        { "name": "Draft", "done": false },
+        { "name": "Review", "done": false },
+        { "name": "Publish", "done": false }
+      ]
+    }
+  ],
+  "selectedItem": {}
+}

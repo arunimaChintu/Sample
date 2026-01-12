@@ -150,3 +150,9 @@ ExecPath: /opt/nodejs/node-v22.19.0-linux-x64/bin/node v22.19.0
     ns: "conn-man:explorer"
 [1767779948093] INFO  (ext): Connection explorer changed. Will be updated.
     ns: "conn-man:explorer"
+[1767780128320] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1767780128787] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1767781751974] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
