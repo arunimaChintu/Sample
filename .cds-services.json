@@ -1,0 +1,18 @@
+{
+  "cds": {
+    "provides": {
+      "CatalogService": {
+        "endpoints": {
+          "odata": "/odata/v4/catalog"
+        },
+        "server": 39583
+      }
+    },
+    "servers": {
+      "39583": {
+        "root": "file:///home/user/projects/Arunima",
+        "url": "http://localhost:4004"
+      }
+    }
+  }
+}

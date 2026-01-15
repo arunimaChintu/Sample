@@ -37,3 +37,46 @@ warning: you may want to set your diff.renameLimit variable to at least 19408 an
 warning: you may want to set your diff.renameLimit variable to at least 19408 and retry the command.
 
 [2026-01-15 07:11:06.967] [GIT   *1494ms] [/home/user] git log -z --format=%x00%x00%H%x00 --shortstat -n10 --date-order --all -- [*1494ms] (slow)
+[2026-01-15 07:11:18.496] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all --): warning: exhaustive rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 19408 and retry the command.
+
+[2026-01-15 07:11:18.496] [GIT   *1489ms] [/home/user] git log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all -- [*1489ms] (slow)
+[2026-01-15 07:11:24.749] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all --): warning: exhaustive rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 19408 and retry the command.
+
+[2026-01-15 07:11:24.749] [GIT   *1469ms] [/home/user] git log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all -- [*1469ms] (slow)
+[2026-01-15 07:12:20.373] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all --): warning: exhaustive rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 19408 and retry the command.
+
+[2026-01-15 07:12:20.373] [GIT   *1473ms] [/home/user] git log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all -- [*1473ms] (slow)
+[2026-01-15 07:12:33.725] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false checkout main --): Already on 'main'
+
+[2026-01-15 07:12:35.759] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all --): warning: exhaustive rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 19408 and retry the command.
+
+[2026-01-15 07:12:35.759] [GIT   *1481ms] [/home/user] git log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all -- [*1481ms] (slow)
+[2026-01-15 07:12:35.759] [GIT   *1251ms] [/home/user] git log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all -- [*1251ms] (slow, waiting)
+[2026-01-15 07:12:42.456] [GIT   *2579ms] [/home/user] git push origin main [*2579ms] (slow)
+[2026-01-15 07:12:42.456] Git.push
+Error: Unable to push branch 'main' to origin because some refs failed to push or the push was rejected. Try pulling first.
+[2026-01-15 07:12:44.483] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all --): warning: exhaustive rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 19408 and retry the command.
+
+[2026-01-15 07:12:44.483] [GIT   *1483ms] [/home/user] git log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all -- [*1483ms] (slow)
+[2026-01-15 07:13:22.209] [GIT          ] [/home/user/.git] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • this operation must be run in a work tree [12ms]
+
+[2026-01-15 07:14:17.466] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all --): warning: exhaustive rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 19408 and retry the command.
+
+[2026-01-15 07:14:17.466] [GIT   *1469ms] [/home/user] git log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all -- [*1469ms] (slow)
+[2026-01-15 07:14:32.080] [GIT   *2527ms] [/home/user] git push origin main [*2527ms] (slow)
+[2026-01-15 07:14:32.080] Git.push
+Error: Unable to push branch 'main' to origin because some refs failed to push or the push was rejected. Try pulling first.
+[2026-01-15 07:14:34.081] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all --): warning: exhaustive rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 19408 and retry the command.
+
+[2026-01-15 07:14:34.081] [GIT   *1473ms] [/home/user] git log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all -- [*1473ms] (slow)
+[2026-01-15 07:16:11.989] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all --): warning: exhaustive rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 19408 and retry the command.
+
+[2026-01-15 07:16:11.989] [GIT   *1477ms] [/home/user] git log -z --format=%x00%x00%H%x00 --shortstat -n11 --date-order --all -- [*1477ms] (slow)

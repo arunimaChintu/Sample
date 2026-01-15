@@ -76,3 +76,69 @@ AppFolders:
 	subWebappRoots: 0
 	manifestAppDescRoots: 0
 AppFolders: Function setContext() done in 911.457ms
+AppFolders: Directory 'file:///home/user/projects/Arunima/srv' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 2020.675ms
+AppFolders: Directory 'file:///home/user/projects/Arunima/node_modules/wrappy' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 1406.548ms
+AppFolders: Directory 'file:///home/user/projects/Arunima/node_modules/tar-fs/test/fixtures/e' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/projects/Arunima/node_modules/object-inspect/test/browser' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/projects/Arunima/node_modules/tar-fs/test/fixtures/d/sub-files' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/projects/Arunima/node_modules/tar-fs/test/fixtures/b/a' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/projects/Arunima/node_modules/qs/.github' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3369.502ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3797.096ms
+AppFolders: Directory 'file:///home/user/projects/Arunima/node_modules/hdb/chrome/sockets' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3943.787ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3948.963ms
+AppFolders: Directory 'file:///home/user/projects/Arunima/node_modules/better-sqlite3/src/util' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/projects/Arunima/node_modules/better-sqlite3/build' changed, updating app folders in context. 
+AppFolders: Directory 'file:///home/user/projects/Arunima/.gen' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3221.988ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3792.272ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 4448.979ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3716.151ms
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 3388.254ms

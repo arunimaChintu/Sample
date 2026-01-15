@@ -1312,3 +1312,59 @@
     at Object.stat (node:internal/fs/promises:1039:18)
 2026-01-15 07:11:06.410 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
     at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:11:17.412 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:11:17.692 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:12:35.070 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:12:35.197 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:13:21.449 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:13:21.587 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:19:44.034 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2026-01-15 07:19:44.034 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+    at Object.dispose (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:142:122634)
+    at $0.<anonymous> (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:24558)
+    at $0.dispose (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:110:24654)
+    at Object.dispose (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1154:48762)
+    at /extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1425:15117
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1425:15099)
+    at Hi (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:25:746)
+    at k2.b (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:15119)
+    at k2.dispose (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:25:1227)
+    at xZ.eb (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:11992)
+    at file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+    at Array.map (<anonymous>)
+    at xZ.$ (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+    at xZ.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+    at W3.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+    at Ss (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:10410)
+    at ad.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:393:8562)
+    at $.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at $.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at So.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at ov.A (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+    at ad.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:10994)
+    at $.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at $.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at Sx.acceptChunk (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+    at ad.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+    at $.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at $.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at AN.z (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:21724)
+2026-01-15 07:19:44.051 [error] Unable to refresh tree view runConfigurations: Canceled
+2026-01-15 07:19:44.051 [error] Unable to refresh tree view npm: Canceled
+2026-01-15 07:19:44.053 [error] Unable to refresh tree view npm: Canceled
+2026-01-15 07:19:44.053 [error] Unable to refresh tree view npm: Canceled
+2026-01-15 07:19:44.053 [error] Unable to refresh tree view npm: Canceled
+2026-01-15 07:19:44.070 [error] Error: Channel has been closed
+    at n (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:121:2816)
+    at Object.info (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:121:3161)
+    at T.info (/extbin/local/openvscode-server/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45257)
+    at ChildProcess.<anonymous> (/extbin/local/openvscode-server/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:600486)
+    at ChildProcess.emit (node:events:519:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
