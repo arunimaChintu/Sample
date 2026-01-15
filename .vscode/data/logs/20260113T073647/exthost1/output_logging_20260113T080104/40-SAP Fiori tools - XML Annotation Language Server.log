@@ -1,0 +1,35 @@
+2026-01-13 08:11:01 error   main: Missing i18n uri in manifest in /home/user/project4/webapp/manifest.json. 
+Error in onManifestFileChanged: Error: Could not create project context for file:///home/user/project5/webapp/manifest.json.
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118813)
+    at e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117796)
+2026-01-13 09:32:35 error   main: Error while creating project context for file:///home/user/project5/webapp/manifest.json: Error: Could not create project context for file:///home/user/project5/webapp/manifest.json. 
+Error in onManifestFileChanged: Error: Could not create project context for file:///home/user/project5/webapp/manifest.json.
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118813)
+    at e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117796)
+Error in onManifestFileChanged: Error: Could not create project context for file:///home/user/project5/webapp/manifest.json.
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118813)
+    at e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117796)
+Error in onManifestFileChanged: Error: Could not create project context for file:///home/user/project5/webapp/manifest.json.
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118813)
+    at e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117796)
+Error in onManifestFileChanged: Error: Could not create project context for file:///home/user/project5/webapp/manifest.json.
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118813)
+    at e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117796)
+Error in onManifestFileChanged: Error: Could not create project context for file:///home/user/project5/webapp/manifest.json.
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118813)
+    at e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117796)
+Error in onManifestFileChanged: Error: Could not create project context for file:///home/user/project5/webapp/manifest.json.
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118813)
+    at e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117796)
+Error in onManifestFileChanged: Error: Could not create project context for file:///home/user/project5/webapp/manifest.json.
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118813)
+    at e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117796)
+Error in onManifestFileChanged: Error: Could not create project context for file:///home/user/project5/webapp/manifest.json.
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118813)
+    at e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117796)
+Error in onManifestFileChanged: Error: Could not create project context for file:///home/user/project5/webapp/manifest.json.
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118813)
+    at e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117796)
+Error in onManifestFileChanged: Error: Could not create project context for file:///home/user/project5/webapp/manifest.json.
+    at e.getProject (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:118813)
+    at e.create (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.20.0/dist/server.js:1364:117796)

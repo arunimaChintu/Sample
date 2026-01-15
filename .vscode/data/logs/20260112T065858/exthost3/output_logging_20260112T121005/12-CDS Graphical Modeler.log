@@ -1,0 +1,18 @@
+{
+  "label": "CDS Graphical Modeler",
+  "level": "info",
+  "message": "Start Logging in Log Level: <info>",
+  "time": "2026-01-12T12:10:13.386Z"
+}
+{
+  "label": "CDS Graphical Modeler",
+  "level": "info",
+  "message": "Full Logs can be found in the </home/user/.vscode/data/logs/20260112T065858/exthost3/SAPSE.vscode-wing-cds-editor-bas> folder",
+  "time": "2026-01-12T12:10:13.388Z"
+}
+{
+  "label": "CDS Graphical Modeler",
+  "level": "info",
+  "message": "Congratulations, your extension 'CDS Graphical Modeler' is now active!",
+  "time": "2026-01-12T12:10:13.388Z"
+}

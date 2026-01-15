@@ -1,0 +1,7 @@
+2026-01-13 09:32:35.669 [error] Error retrieving config for project '/home/user/project5'. SyntaxError: Unexpected non-whitespace character after JSON at position 5 (line 1 column 6)
+    at JSON.parse (<anonymous>)
+    at readJSON (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:32:15723)
+    at generateSapuxConfig (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:1194:8205)
+    at generateConfig (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:4347:49170)
+    at onWebappChanged (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.20.0/dist/extension-min.js:4347:50240)
+2026-01-13 09:32:35.669 [error] An error occurred when writing config to the manifest.json file and changes in /home/user/project5. Error:  'Error: SyntaxError: Unexpected non-whitespace character after JSON at position 5 (line 1 column 6)'

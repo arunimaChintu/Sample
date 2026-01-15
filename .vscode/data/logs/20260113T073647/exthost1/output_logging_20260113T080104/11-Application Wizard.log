@@ -1,0 +1,13 @@
+{
+  "label": "Application Wizard.AbstractWebviewPanel.@sap/fiori:app.@sap/generator-fiori",
+  "level": "error",
+  "message": "An error has occurred, please restart the generator. : Request timed out",
+  "time": "2026-01-13T10:13:44.836Z"
+}
+{
+  "label": "Application Wizard.AbstractWebviewPanel",
+  "level": "error",
+  "message": "@sap/fiori:app generator failed - env.on(error) An error has occurred, please restart the generator. : Request timed out",
+  "stack": "Error: env.on(error) An error has occurred, please restart the generator. : Request timed out\n    at FioriAppGenerator._exitOnError (/extbin/globals/pnpm/5/.pnpm/@sap+generator-fiori@1.20.0/node_modules/@sap/generator-fiori/generators/fiori-app-sub-generator/index.js:1:16726)\n    at FioriAppGenerator.prompting (/extbin/globals/pnpm/5/.pnpm/@sap+generator-fiori@1.20.0/node_modules/@sap/generator-fiori/generators/fiori-app-sub-generator/index.js:1:13277)",
+  "time": "2026-01-13T10:13:44.842Z"
+}

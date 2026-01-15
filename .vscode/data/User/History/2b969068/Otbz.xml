@@ -1,0 +1,84 @@
+<mvc:View controllerName="project1.controller.EmployeeDetail"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page
+        id="employeeDetailPage"
+        title="{= ${detail>/employee/name} ? ${detail>/employee/name} : 'Personal Data' }"
+        showNavButton="true"
+        navButtonPress="onNavBack">
+        <VBox class="sapUiSmallMargin">
+            <HBox alignItems="Center" justifyContent="SpaceBetween">
+                <VBox>
+                    <Text text="Employee ID"/>
+                    <ObjectIdentifier
+                        title="{detail>/employee/id}"
+                        text="{detail>/employee/department}"/>
+                </VBox>
+                <ObjectStatus
+                    text="{= ${detail>/employee/status} === 'Active' ? 'Active' : 'Inactive' }"
+                    state="{= ${detail>/employee/status} === 'Active' ? 'Success' : 'Warning' }"/>
+            </HBox>
+
+            <Toolbar class="sapUiTinyMarginTop">
+                <Title text="Personal Data" level="H3"/>
+                <ToolbarSpacer/>
+                <Button
+                    text="{= ${detail>/editable} ? 'Lock' : 'Edit' }"
+                    type="Emphasized"
+                    press="onToggleEdit"/>
+                <Button
+                    text="Add Row"
+                    icon="sap-icon://add"
+                    enabled="{detail>/editable}"
+                    press="onAddRow"/>
+                <Button
+                    text="Delete Selected"
+                    icon="sap-icon://delete"
+                    enabled="{detail>/editable}"
+                    press="onDeleteRows"/>
+                <Button
+                    text="Save"
+                    icon="sap-icon://save"
+                    type="Accept"
+                    enabled="{detail>/editable}"
+                    press="onSave"/>
+            </Toolbar>
+
+            <Table
+                id="personalDataTable"
+                mode="MultiSelect"
+                items="{
+                    path: 'detail>/personalData'
+                }">
+                <columns>
+                    <Column><Text text="Type"/></Column>
+                    <Column><Text text="Value"/></Column>
+                    <Column><Text text="Start Date"/></Column>
+                    <Column><Text text="Active"/></Column>
+                </columns>
+                <items>
+                    <ColumnListItem>
+                        <cells>
+                            <Input
+                                value="{detail>type}"
+                                showValueHelp="true"
+                                valueHelpRequest="onValueHelp"
+                                editable="{detail>/editable}"/>
+                            <Input
+                                value="{detail>value}"
+                                editable="{detail>/editable}"/>
+                            <DatePicker
+                                value="{detail>startDate}"
+                                valueFormat="yyyy-MM-dd"
+                                displayFormat="long"
+                                editable="{detail>/editable}"/>
+                            <CheckBox
+                                selected="{detail>active}"
+                                editable="{detail>/editable}"/>
+                        </cells>
+                    </ColumnListItem>
+                </items>
+            </Table>
+        </VBox>
+    </Page>
+</mvc:View>

@@ -1,0 +1,77 @@
+<mvc:View controllerName="project5.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+     xmlns="sap.m"
+    xmlns:core="sap.ui.core">
+    <Page id="page" title="Employee Directory">
+        <VBox class="sapUiSmallMargin">
+            <Toolbar>
+                <Title text="Employee List" level="H2"/>
+                <ToolbarSpacer/>
+                <SearchField
+                    id="employeeSearch"
+                    width="16rem"
+                    placeholder="Search by name or ID"
+                    liveChange="onFilterChange"/>
+                <Select
+                    id="departmentSelect"
+                    width="12rem"
+                    selectedKey="All"
+                    change="onFilterChange"
+                    items="{
+                        path: 'data>/departments'
+                    }">
+                    <core:Item
+                        key="{data>}"
+                        text="{data>}"/>
+                </Select>
+                <Select
+                    id="statusSelect"
+                    width="10rem"
+                    selectedKey="All"
+                    change="onFilterChange"
+                    items="{
+                        path: 'data>/statuses'
+                    }">
+                    <core:Item
+                        key="{data>}"
+                        text="{data>}"/>
+                </Select>
+            </Toolbar>
+
+            <Table
+                id="employeeTable"
+                items="{
+                    path: 'data>/employees'
+                }"
+                width="100%"
+                mode="None">
+                <columns>
+                    <Column><Text text="ID"/></Column>
+                    <Column><Text text="Name"/></Column>
+                    <Column><Text text="Department"/></Column>
+                    <Column><Text text="Role"/></Column>
+                    <Column><Text text="Location"/></Column>
+                    <Column><Text text="Status"/></Column>
+                    <Column><Text text="Join Date"/></Column>
+                </columns>
+                <items>
+                    <ColumnListItem
+                        type="Navigation"
+                        press="onEmployeePress">
+                        <cells>
+                            <Text text="{data>id}"/>
+                            <Text text="{data>name}"/>
+                            <Text text="{data>department}"/>
+                            <Text text="{data>role}"/>
+                            <Text text="{data>location}"/>
+                            <ObjectStatus
+                                text="{= ${data>status} === 'Active' ? 'Active' : 'Inactive' }"
+                                state="{= ${data>status} === 'Active' ? 'Success' : 'Warning' }"/>
+                            <Text text="{data>joinDate}"/>
+                        </cells>
+                    </ColumnListItem>
+                </items>
+            </Table>
+        </VBox>
+    </Page>
+</mvc:View>

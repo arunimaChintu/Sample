@@ -1,0 +1,35 @@
+   create ../../../home/user/project5/webapp/Component.js
+   create ../../../home/user/project5/webapp/index.html
+   create ../../../home/user/project5/webapp/manifest.json
+   create ../../../home/user/project5/webapp/i18n/i18n.properties
+   create ../../../home/user/project5/.gitignore
+   create ../../../home/user/project5/package.json
+   create ../../../home/user/project5/ui5-local.yaml
+   create ../../../home/user/project5/ui5.yaml
+   create ../../../home/user/project5/webapp/model/models.js
+   create ../../../home/user/project5/webapp/controller/App.controller.js
+   create ../../../home/user/project5/webapp/css/style.css
+   create ../../../home/user/project5/webapp/view/App.view.xml
+   create ../../../home/user/project5/webapp/view/View1.view.xml
+   create ../../../home/user/project5/webapp/controller/View1.controller.js
+   create ../../../home/user/project5/webapp/test/integration/AllJourneys.js
+   create ../../../home/user/project5/webapp/test/integration/NavigationJourney.js
+   create ../../../home/user/project5/webapp/test/integration/arrangements/Startup.js
+   create ../../../home/user/project5/webapp/test/integration/opaTests.qunit.html
+   create ../../../home/user/project5/webapp/test/integration/opaTests.qunit.js
+   create ../../../home/user/project5/webapp/test/integration/pages/App.js
+   create ../../../home/user/project5/webapp/test/integration/pages/View1.js
+   create ../../../home/user/project5/webapp/test/unit/AllTests.js
+   create ../../../home/user/project5/webapp/test/unit/controller/View1.controller.js
+   create ../../../home/user/project5/webapp/test/unit/unitTests.qunit.html
+   create ../../../home/user/project5/webapp/test/unit/unitTests.qunit.js
+   create ../../../home/user/project5/webapp/test/testsuite.qunit.js
+   create ../../../home/user/project5/webapp/test/testsuite.qunit.html
+   create ../../../home/user/project5/README.md
+   create ../../../home/user/project5/.appGenInfo.json
+          
+No change to package.json was detected. No package manager install will be executed.
+    force ../../../home/user/.vscode/launch.json
+          [2026-01-13 10:13:44] ERROR: An error has occurred, please restart the generator. : Request timed out
+An error has occurred, please restart the generator. : Request timed out
+          An error occured while running @sap/fiori:fiori-app-sub-gen#prompting
