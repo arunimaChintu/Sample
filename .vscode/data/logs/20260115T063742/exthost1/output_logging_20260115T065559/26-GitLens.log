@@ -2,3 +2,19 @@ GitLens v16.2.1 activating in SAP Business Application Studio (1.105.1) on the w
 To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
 [2026-01-15 06:56:32.915] loadLocalRepoDataMap
 EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/user/.local/share/gk/repoMapping.json'
+[2026-01-15 07:00:21.643] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log -z --format=%x00%x00%H%x00 --shortstat -n8 --date-order --all --): warning: exhaustive rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 19408 and retry the command.
+
+[2026-01-15 07:00:21.643] [GIT   *1516ms] [/home/user] git log -z --format=%x00%x00%H%x00 --shortstat -n8 --date-order --all -- [*1516ms] (slow)
+[2026-01-15 07:00:24.764] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log -z --format=%x00%x00%H%x00 --shortstat -n8 --date-order --all --): warning: exhaustive rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 19408 and retry the command.
+
+[2026-01-15 07:00:24.764] [GIT   *1520ms] [/home/user] git log -z --format=%x00%x00%H%x00 --shortstat -n8 --date-order --all -- [*1520ms] (slow)
+[2026-01-15 07:01:50.413] [GIT   *1917ms] [/home/user] git push origin main [*1917ms] (slow)
+[2026-01-15 07:01:50.431] Git.push
+Error: Unable to push branch 'main' to origin because some refs failed to push or the push was rejected. Try pulling first.
+[2026-01-15 07:01:52.457] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log -z --format=%x00%x00%H%x00 --shortstat -n8 --date-order --all --): warning: exhaustive rename detection was skipped due to too many files.
+warning: you may want to set your diff.renameLimit variable to at least 19408 and retry the command.
+
+[2026-01-15 07:01:52.457] [GIT   *1482ms] [/home/user] git log -z --format=%x00%x00%H%x00 --shortstat -n8 --date-order --all -- [*1482ms] (slow)
+[2026-01-15 07:02:02.241] [GIT   *1439ms] [/home/user] git log --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cn%x3e%x20%cN%n%x3cm%x3e%x20%cE%n%x3cc%x3e%x20%ct%n%x3cp%x3e%x20%P%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e%n%x3cf%x3e -M --name-status --full-history -m --no-min-parents -n3 43beca2363c0050fecde24ec5f7249c0c38a51be -- [*1439ms] (slow)

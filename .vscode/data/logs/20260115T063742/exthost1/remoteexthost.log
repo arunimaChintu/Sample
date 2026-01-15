@@ -1211,3 +1211,21 @@
     at Object.stat (node:internal/fs/promises:1039:18)
 2026-01-15 06:56:43.011 [error] Error: ENOENT: no such file or directory, stat '/home/user/.local/share/gk/lockfile'
     at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:00:14.500 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:00:14.645 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:03:03.156 [error] Error: No provider registered for 'git-output:/git-error-1768460448865'
+    at GitProviderService.getProvider (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1154:59240)
+    at GitProviderService.<anonymous> (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1154:69528)
+    at GitProviderService.getOrOpenRepository (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1154:70316)
+    at GitProviderService.p.<computed> (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1479:86935)
+    at GitProviderService.getOrOpenRepositoryForEditor (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1154:70634)
+    at GitProviderService.p.<computed> (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1479:86935)
+    at ep (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1120:38215)
+    at ep.next (<anonymous>)
+    at SwitchGitCommand.steps (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1124:6252)
+    at steps.next (<anonymous>)
+    at SwitchGitCommand.next (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1120:54545)
+    at tG.getCommandStep (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1529:4227)
+    at tG.execute (/extbin/local/openvscode-server/extensions/gitlens-16.2.1/dist/gitlens.js:1529:2694)
