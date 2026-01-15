@@ -1237,3 +1237,78 @@
     at Object.stat (node:internal/fs/promises:1039:18)
 2026-01-15 07:05:55.324 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
     at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:06:17.988 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:06:18.331 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:06:25.173 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:06:43.191 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config4195093505'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:06:43.291 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config4195093505'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:06:43.531 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config4195093505'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-15 07:06:53.355 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config3513670574'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:06:53.356 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config3513670574'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:06:53.700 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config3513670574'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-15 07:06:58.208 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1681841802'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:06:58.291 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1681841802'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:06:58.549 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config1681841802'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-15 07:07:03.213 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config2825723894'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:07:03.289 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config2825723894'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:07:03.844 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config2825723894'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-15 07:08:11.978 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:08:12.077 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:08:50.910 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:08:51.153 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:08:51.236 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:08:53.478 [error] Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config759660067'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:08:53.821 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.cf/temp-config759660067'
+    at Function.e (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.stat (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+    at isDirectory (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/common.ts:86:21)
+    at ad.value (/extbin/local/openvscode-server/extensions/code-search-1.5.0/src/utils/watchers.ts:102:37)
+2026-01-15 07:09:10.955 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:09:11.017 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:09:41.418 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:09:41.421 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:09:56.179 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:09:56.214 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:11:06.298 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
+2026-01-15 07:11:06.410 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'
+    at Object.stat (node:internal/fs/promises:1039:18)
